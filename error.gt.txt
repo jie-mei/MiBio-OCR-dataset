@@ -1,0 +1,2915 @@
+61	ORIOLID^	ORIOLIDÆ	unicode bird-type
+77	famil}^	family	
+144	whicli	which	
+401	IdcridcE	Icteridœ	unicode bird-type
+687	Corvince	Corvinœ	unicode bird-type
+1143	iu	in	
+1567	lilacine-greyisli	lilacine-greyish	bird-type
+1786	Corvidcr	Corvidœ	unicode bird-type
+1951	Familx	Family	
+1959	ORIOL ID^E	ORIOLIDÆ	unicode
+2000	ga/bula	galbula	
+2920	iu	in	
+2949	uest	nest	
+3148	Maj^	May,	
+3173	Feildeu	Feilden	person-name
+3682	j^ellowish	yellowish	
+5473	j ust	just	
+5607	nsually	usually	
+5994	fii:e	fine	
+6163	occasionall}'	occasionally	
+6416	?( '/■<■(•/	wheet	
+6429	//	li	
+6433	vec-o	vee-o	sound-simulation
+6438	'	.	punctuation
+6439	''	”	punctuation
+6457	IMacphersou	Macpherson	person-name
+6769	eas}'	easy	
+6994	leaves."	leaves.”	unicode
+7035	largel}'	largely	
+7065	larvae	larvæ	unicode bird-type
+7195	b}^	by	
+7470	an}'	any	
+7711	extremelj'	extremely	
+7756	tr3'ing	trying	
+8132	advantageousl}'	advantageously	
+8209	readil}--	readily	
+8290	unhappil}-	unhappily	
+8675	coniinement	confinement	
+8808	da}'	day	
+8884	LANIID^	LANIIDÆ	unicode bird-type
+9229	defiued	defined	
+9425	defiued	defined	
+9576	Laniidcv	Laniidœ	unicode bird-type
+9826	an}'	any	
+10112	Laniida:	Laniidœ	unicode bird-type
+10584	uearlj^	nearly	
+10624	Seebohni	Seebohm	person-name
+10664	tlie	the	
+10669	Corvi)ia	Corvinœ	unicode bird-type
+10988	liis	his	
+10993	}ilanual	Manual	
+11054	Flj-catchers	Flycatchers	bird-type
+11070	Faiuiiv	Family	
+11077	^	-	punctuation
+11078	LAXIILKl-:	LANIIDÆ	bird-type
+11106	Shrh^e	SHRIKE	
+11115	Lauius	Lanius	bird-type
+11122	txciibilor	excubitor	bird-type
+11193	biixl	bird	
+11614	tlie	the	
+11671	cxcubitor	excubitor	bird-type
+11794	viajor	major	
+11901	exaibiior	excubitor	bird-type
+11927	t3'pical	typical	
+12361	tlie	the	
+12453	Icncopterus	lencopterus	
+12505	vSouthern	Southern	
+12560	Z	L	bird-type
+12563	cxcubitor	excubitor	bird-type
+12634	honieyeri	homeyeri	bird-type
+12644	'		
+12787	tlie	the	
+12918	Sittingbourue	Sittingbourne	
+13124	^^%	egg	
+13171	j-ear	year	
+13266	(xcubitoy	excubitor	bird-type
+14040	bell}-	belly	
+14181	seeu	seen	
+14303	countr}^	country,	
+14636	Parus.	Parus	bird-type
+14646	Regiilus	Regulus	bird-type
+14802	pre}^	prey,	
+15198	bulk}'	bulky	
+15264	Ijcnts	bents	
+15497	aud	and	
+15783	aud	and	
+15937	Gatke	Gätke	unicode person-name
+15943	sa3'S	says	
+16010	unfreqnently	unfrequently	
+17662	LAXIID.^.	LANIIDÆ	unicode bird-type
+17699	Lioiiits	Lanius	bird-type
+17708	)iii>iof	minor	bird-type
+17718	Gjiel	GMEL	bird-type
+17772	tlie	the	
+17877	onl}^	only	
+17935	i88g	1889	numeric
+18232	everj^	every	
+18327	Famtly	Family	
+18334	LANIID.'E	LANIIDÆ	unicode bird-type
+18377	coUurio	collurio	bird-type
+18906	Indns	Indus	place-name
+18970	vallej^	valley	
+19063	Laud	Land	place-name
+19298	imcommon	uncommon	
+19469	onl}'	only	
+19785	gre}-	grey	
+20132	huffish	buffish	
+20401	w-ith	with	
+20674	earl}'	early	
+21271	frequentl}'	frequently	
+22717	tliree	three	
+24340	Goldeu	Golden	bird-type
+24830	difficult}'	difficulty	
+25539	tlie	the	
+25622	Corvincr	Corvinæ	unicode bird-type
+25790	Glinther	Günther	unicode person-name
+26264	Jul}^	July	
+26492	loth	10th	numeric
+26588	loth	10th	numeric
+26790	aud	and	
+27054	.smells	smells	
+27933	LANIID. 'E	LANIIDÆ	unicode bird-type
+27975	pomcranus	pomeranus	bird-type
+28145	bej^ond	beyond	
+28503	Turke}-	Turkey	
+28627	°	˚	unicode punctuation
+29233	erowu	crown	
+29360	chestnnt	chestnut	
+29632	onter	outer	
+29648	nnder	under	
+29692	bnff	buff	
+29763	colonring	colouring	
+29830	voung	young	
+29929	broadl}-	broadly	
+30036	nnder	under	
+30050	heavil}-	heavily	
+30173	hannts	haunts	
+30196	thinl}'	thinly	
+31041	pnrpose	purpose	
+31066	nntil	until	
+31072	the}-	they	
+31424	Gnaplialiuni	Gnaphalium	
+31436	J	)	
+31619	usuallj^	usually	
+31808	ver}'	very	
+31814	rarel}-	rarely	
+31845	potneraHus	pomeranus	bird-type
+32138	off"	off	
+32146	anotlier	another	
+32190	np	up	
+32234	countr}-	country	
+32243	ronnd	round	
+32429	aff"ection	affection	
+32464	display's	displays	
+32742	saj'S	says	
+32787	laali	krah	
+32800	ki-ah	krah	
+33454	saj'S	says	
+33945	Possiblj'	Possibly	
+34219	W'itchell	Witchell	
+34673	satisfactor}^	satisfactory	
+34837	shoiild	should	
+34878	coutradictiou	contradiction	
+34959	Wotxicliat	Woodchat	
+35290	als j	also	
+35296	saj'S	says	
+35308	poiiui-iVtiis	pomeranus	
+35389	nt/us)	rufus)	
+35586	L ANIID. 'E	LANIIDÆ	unicode bird-type
+35604	Maskkd	MASKED	bird-type
+35611	Shrikp:	SHRIKE	bird-type
+35621	Laniiis,	Lanius	
+35630	iin/inna	nubicus	bird-type
+35640	LrciiT	LICHT	bird-type
+35716	iith	11th	numeric
+35842	AMPELID.55	AMPELIDÆ	unicode bird-type
+35974	Lioi/irix	Liothrix	bird-type
+36283	Passercs	Passeres	bird-type
+36782	Subfamil}^	Subfamily,	
+36971	n	II	
+36977	i	1	
+37006	Ainpelis	Ampelis	bird-type
+37490	beaut}-	beauty	
+37508	anj'thing	anything	
+37676	AMPEL ID. E	AMPELIDÆ	unicode bird-type
+37704	A/nptiis	Ampelis	bird-type
+37713	f;ay>///us	garrulus	bird-type
+37725	LlNN	LINN	bird-type
+38116	Turke}'	Turkey	
+38663	1867-S	1867-8	numeric
+39234	and	aud	ERROR
+39652	tij^s	tips	
+39690	\^-like	V-like	
+40056	iuuer	inner	
+41612	cir-ir-iy-ir-re	cir-ir-ir-ir-re	sound-simulation
+41838	largel}'	largely	
+43121	fseces	fæces	unicode
+43267	bu}'	buy	
+43272	au}^	any	
+43464	aud	and	
+43914	c|uite	quite	
+43978	aviarv	aviary	
+43990	Wa.Kwing	Waxwing	bird-type
+44042	captivit3%	captivity,	
+44092	aud	and	
+44124	m	in	
+44154	certaiul}-	certainly	
+44263	MUSCICAPID^	MUSCICAPIDÆ	unicode
+44351	Subfamil}'	Subfamily	
+44394	Turdtna:	Turdinœ	unicode bird-type
+44861	e3'^es	eyes	
+44905	mostl}''	mostly	
+45814	vSeebohm	Seebohm	
+45868	Palaearctic	Palæarctic	unicode
+46265	MUSCICAPIDyE	MUSCICAPIDÆ	unicode
+46396	Tromso	Tromsö	unicode
+46599	IMinor	Minor	
+46771	Fljxatcher	Flycatcher	
+46815	everjr	every	
+47152	slightl}'	slightly	
+47322	gre3'ish	greyish	
+47331	wliite	white	
+47598	j-oung	young	
+47758	Flj'catcher	Flycatcher	
+47781	out.skirts	outskirts	
+47912	siich	such	
+47936	usuall}-	usually	
+48309	aud	and	
+48320	ni}'	my	
+48567	aud	and	
+48694	var}'	vary	
+49420	Flycatctier	Flycatcher	
+49810	1S78	1878	numeric
+50183	-	.	punctuation
+50232	sa3'S	says	
+50486	awa}'	away	
+50742	cf	zt	sound-simulation
+50972	'		punctuation
+51209	sf	zt	sound-simulation
+51770	Gumey	Gurney	unicode
+52198	destro3'ed	destroyed	
+52426	effectuallv	effectually	
+53106	destro3^ed	destroyed	
+53291	\\'a.s	was	
+53304	destro3'ed	destroyed	
+53441	awa}-	away	
+53505	destro3-ed	destroyed	
+53572	awa}'	away	
+53578	b}^	by	
+53692	Fl3'catcher	Flycatcher	
+53755	-	.	punctuation
+53806	perseciition	persecution	
+53836	shoiild	should	
+53909	successfull3'	successfully	
+53953	3'ears	years	
+53968	3'oung	young	
+53983	Fl3	Fly	
+53986	-		ERROR
+54038	lan:p	lamp	
+54049	temporaril3^	temporarily	
+54181	the3'	they	
+54287	b3'	by	
+54373	aviar3'	aviary	
+54615	Hirundinidce	Hirundinidœ	unicode
+54760	ML 'SCICAPID.F	MUSCICAPIDÆ	unicode
+54799	Miiscicapa	Muscicapa	
+54810	africapil/a	atricapilla	
+54986	Fl3'catcher	Flycatcher	
+56413	huffish	buffish	
+57257	saj's	says	
+57829	consider	cousider	
+57898	ver}'	very	
+58248	Fl3'catcher	Flycatcher	
+58715	instinctivel}'	instinctively	
+59777	tijubre	timbre	
+60111	iiuish	finish	
+60192	nij^	my	
+60412	Gatke	Gätke	unicode
+60725	"		
+60826	imderstand	understand	
+60939	Kurope	Europe	
+62252	w'Siy	way	
+62903	soou	soon	
+62999	Familv	Family	
+63006	MUSCICAPID.-E.	MUSCICAPIDÆ	
+63069	Bkchst	BECHST	
+63292	Ma3%	May,	
+63495	Trans3dvania	Transylvania	
+64038	January'	January	
+64120	ScilW	Scilly	
+64162	aud	and	
+64545	Guruey	Gurney	
+64579	;	:	punctuation
+64655	Bechsteiu	Bechstein	
+64769	.	,	punctuation
+65810	iu	in	
+66494	j'ear	year	
+66591	mituita	minuta	bird-name
+66805	{	(	punctuation
+67345	ri<sst	russi	
+67446	ccrvicalis	cervicalis	
+67494	capiiata	capitata	
+67600	breediug	breeding	
+67609	iu	in	
+67625	aud	and	
+67709	nnobtrnsive	unobtrusive	
+67765	aud	and	
+67814	piuk	pink	
+67820	p'nik	pink	
+67852	spi)ik	spink	
+67960	''	"	punctuation
+67963	fnid	füid	unicode sound-simulation
+67969	fiiidr	füid	unicode sound-simulation
+67975		,"	punctuation
+68049	''	"	punctuation
+68052	plnvick	phwick	sound-simulation
+68059	"'	"	punctuation
+68065	''	"	punctuation
+68068	phivW	phwit	sound-simulation
+68073		"	punctuation
+68137	puik	pink	
+68143	aud	and	
+68147	/	t	
+68231	Giitke	Gätke	unicode
+69275	iu	in	
+69786	HIRUNDINID^	HIRUNDINIDÆ	unicode
+69800	SEEBOHAI	SEEBOHM	
+69896	Bunting's	Buntings	
+69983	b}-	by	
+70538	H^michclidon	Hemichelidon	
+70551	fuligiiiosus	fuliginosus	line-break
+71031	Hirujidinida:	Hirundinidœ	unicode
+71713	FamUy	Family	
+71719	IIIRUXDINID. E	HIRUNDINIDÆ	bird-type
+71750	Ilinoido	Hirundo	bird-type
+71759	yu\tica	rustica	
+71858	luountaiu	mountain	
+71868	rauges	ranges	
+72045	vSpitzbergeu	Spitzbergen	place-name
+72299	Ma}^	May,	
+72401	}ilr	Mr	
+72407	Froliawk	Frohawk	line-break
+72977	huffish	buffish	
+73655	b}^	by,	
+74132	situations-	situations	
+74335	chimne3's	chimneys	
+74570	s3'camore	sycamore	
+74911	ha}'	hay	
+74993	b}'	by	
+75877	3'oung	young	
+76183	j^ear	year	
+76607	t	†	punctuation
+76637	chitch	clutch	
+76861	melod}'	melody	
+77046	ver}'	very	
+77171	hvi/	hwit	sound-simulation
+77177	hivit	hwit	sound-simulation
+77219	lnvit	hwit	sound-simulation
+77225	(it	tit	sound-simulation
+77233	(il	tit	sound-simulation
+77272	largel}'	largely	
+77308	ephemerae	ephemeræ	unicode
+77712	au	an	
+77834	out.spread	outspread	
+78663	aviar}-	aviary	
+78711	Familx	Family	
+78718	HIR UNDINID. -E	HIRUNDINIDÆ	bird-type
+78736	"FiiK	THE	
+78742	RivD	RED	bird-type
+78747	RuMPKi)	RUMPED	
+78765	HiriDido	Hirundo	
+78774	nifula	rufula	
+78782	TE^I^	TEMM	
+78787	^	.	punctuation
+78842	iu	in	
+78865	HI R UNDINID. E	HIRUNDINIDÆ	unicode bird-type
+78896	CInlidon	Chelidon	
+78913	LiXN	LINN	
+78944	througliout	throughout	
+79017	sa3's	says	
+79714	greeu	green	
+79740	horu	horn	
+79776	\vith	with	
+79847	perliaps	perhaps	
+79890	smok\-	smoky	
+80153	b}'	by	
+80236	w^hite	white	
+80287	IMartin	Martin	
+80744	w-alk	walk	
+80779	certainl}'	certainly	
+81025	szeci	szeet	
+81381	denii	demi	
+81999	the}'	they	
+82078	ros}'	rosy	
+82179	"		punctuation
+82587	ha}'	hay	
+82769	ha}-	hay	
+82806	onl_v	only	
+83089	Jul}'	July	
+83120	\V	W	person-name
+83171	AIartins	Martins	
+83297	j'ouug	young	
+83435	j-olk	yolk	
+83753	da}'	day	
+84111	IMartins	Martins	
+84168	Hinindinida:	Hirundinidœ	unicode
+85198	x^lthough	Although	
+85241	w^ould	would	
+85591	tlie	the	
+85612	usualljr	usually	
+85643	conld	could	
+85889	earlj^	early	
+85926	generall}-	generally	
+85969	ni}-	my	
+86115	'i	?	punctuation
+86398	acutel}'	acutely	
+86721	1-amily	Family	
+86729	IIIR UNDL\ ID.E	HIRUNDINIDÆ	bird-type
+86765	Col ill	Cotile	
+86773	ri/^ariii	riparia	
+86784	LiN'N	LINN	
+87508	Occasionallj'	Occasionally	
+88009	huffish	buffish	
+88236	huffish	buffish	
+88345	lMartin	Martin	bird-type
+89205	obliquelj^	obliquely	
+89976	neatl}'	neatly	
+90030	tlie	the	
+90035	cnrvcd	curved	
+90048	snrface	surface	
+90069	tlie	the	
+90125	carefully-	carefully	
+90195	prett}-	pretty	
+90277	unhappih'	unhappily	
+90289	ver}'	very	
+90449	]\Iartin	Martin	bird-type
+90519	man}'	many	
+90548	nia_v	may	
+90825	slightl}-	slightly	
+90835	gloss}-	glossy	
+90918	ros}-	rosy	
+90924	aj^pearance	appearance	
+91061	anno3auce	annoyance	
+91094	ever}-	every	
+91377	temporar}'	temporary	
+91583	frequentl}'	frequently	
+91881	cliigos	chigos	
+91975	szvter	sweer	
+92066	vaguel}'	vaguely	
+92128	usuall}'	usually	
+92275	pureh^	purely	
+92349	flics	flies	
+92475	3'oung	young	
+92650	b}'	by	
+92939	rarel}-	rarely	
+93075	iu	in	
+93195	wlieu	when	
+93236	Jul}-	July	
+93278	Martius	Martins	bird-type
+93328	j'oiing	young	
+93343	fl}^	fly	
+93347		,	punctuation
+93662	iu	in	
+94382	au	an	
+94570	iu	in	
+94695	uutil	until	
+95036	Martius	Martins	bird-type
+95096	FRINGILLID.€	FRINGILLIDÆ	unicode
+95116	famil}'	family	
+95138	uumber	number	
+95174	eatiug	eating	
+95196	Saimders	Saunders	
+95205	011I3'	only	
+95243	fFrin^HluurJ	(Fringillinœ)	unicode
+95269	(E>i!beyiziHaJ	(Emberizinœ)	unicode
+95394	Coccothraitstiiuc	Coccothraustinœ	unicode
+95608	aud	and	
+95793	F) hio'iUidcr	Fringillidœ	unicode
+95927	aud	and	
+95996	aud	and	
+96125	partially-	partially	
+96363	CoccothraiisibuT	Coccothraustinœ	unicode
+96647	Fringillincc	Fringillinœ	unicode
+96826	ver}'	very	
+96987	E»ib€risi)ur	Emberizinœ	unicode
+97040	ma}'	may	
+97173	complete!}'	completely	
+97434	the}'	they	
+97555	Fringillida	Fringillidœ	unicode
+97670	FRIKGILLID.'E	FRINGILLIDÆ	unicode bird-type
+97697	COCCOTHRAUSTIN/E	COCCOTHRAUSTINÆ	unicode bird-type
+97733	JLigiiriniis	Ligurinus	
+97746	ch/ori^	chloris	
+97765	tlie	the	
+97799	tlie	the	
+97860	generall}-	generally	
+98022	conunon	common	
+99498	3'ellow	yellow	
+100053	compau}-	company	
+100220	alwaj's	always	
+100426	zshwee>-	zshweer	
+100609	deiiance	defiance	
+101384	whicli	which	
+101479	fift}-	fifty	
+101692	occasionally'	occasionally	
+101920	i	1	
+102691	- —	-	punctuation
+103034	iu	in	
+103312	huffish	buffish	
+103361	chief!}'	chiefly	
+103460	occasionall}'	occasionally	
+103498	browu	brown	
+103641	principall}'	principally	
+103708	the_y	they	
+103748	fl_v	fly	
+103797	b}-	by	
+103877	ma}'	may	
+104073	iu	in	
+104112	frec|ueut	frequent	
+104715	zshivecr	zshweer	
+104957	manoeuvre	manœuvre	unicode
+105347	^^^	egg	
+105381	batched	hatched	
+105596	iu	in	
+105810	biisily	busily	
+105922	occasiou	occasion	
+105957	aud	and	
+106095	whj-	why	
+106136	unremuuerative	unremunerative	
+106297	aud	and	
+106582	Family	Family	
+106588	^	-	punctuation
+106590	FRINGILLID.'E	FRINGILLIDÆ	bird-type
+106617	COCCOTIIRA USTIN/E	COCCOTHRAUSTINÆ	unicode bird-type
+106653	Coccotliraustcs	Coccothraustes	
+107230	Aft}'	fifty	
+107236	3-ears	years	
+107613	Fifesliire	Fifeshire	
+107756	ciunamon	cinnamon	
+107869	gre}-	grey	
+107963	j-ellower	yellower	
+108266	extremit}'	extremity	
+108447	ilesh	flesh	
+108571	3'Oung	young	
+109065	ver}?	very	
+109426	cr}'	cry	
+109458	ver}'	very	
+109706	3'ews	yews	
+109933	usuall}^	usually	
+110018	holl}'	holly	
+110245	Biillfinch	Bullfinch	
+110281	alwa3-s	always	
+110666	uest	nest	
+110703	aud	and	
+110984	bufl&sh	buffish	
+111057	aud	and	
+111106	aud	and	
+111167	lilaciue	lilacine	
+111176	gre}'	grey	
+111224	closel}'	closely	
+111744	3'ear	year	
+111756	cherr^'	cherry	
+111874	canar}-	canary	
+111998	i4tli	14th	
+112422	efi^orts	efforts	
+112672	uest	nest	
+113376	an}'	any	
+113426	full}'	fully	
+113521	j-et	yet	
+113560	Alacpherson	Macpherson	
+113654	wholl}'	wholly	
+113689	facult}'	faculty	
+113702	ni}'	my	
+113765	tlie	the	
+113949	soiinds	sounds	
+113993	beaut}^	beauty	
+114160	Home3'er	Homeyer	
+114207	4S9	489	numeric
+114396	Gro.sbeaks	Grosbeaks	
+114463	the}-	they	
+114551	Mauual	Manual	
+114829	Fyi>igiIIa	Fringilla	
+114888	au}'	any	
+114937	I^ri)ioi/ln	Fringilla	
+114968	Piisser	Passer	
+115036	Emberizina:	Emberizinœ	unicode
+115064	Avicultiirist	Aviculturist	
+115178	FRINGILLID.^	FRINGILLIDÆ	unicode bird-type
+115204	FRINGILLIN.E	FRINGILLINÆ	unicode bird-type
+115234	CroSvSbill	CROSSBILL	
+115247	Lo\ia	Loxia	
+115253	bifasctala	bifasciata	
+115271	Brkhm	BREHM	
+115360	aud	and	
+115544	aud	and	
+115766	nth	11th	
+115945	ueighbourhood	neighbourhood	
+116175	Doubleda}'	Doubleday	
+116215	Eppiug	Epping	
+116367	iu	in	
+116376	aud	and	
+116630	aud	and	
+116848	bell}'	belly	
+117119	j'oung	young	
+117687	the}'	they	
+118008	ver}-	very	
+118070	iu	in	
+118296	iu	in	
+118454	iu	in	
+118697	meutiouing	mentioning	
+118999	Gatke	Gätke	unicode
+119018	18S9	1889	numeric
+119203	i6tli	16th	
+119697	FRIXGILLIDrE	FRINGILLIDÆ	unicode
+119723	FRINGILLIAVE	FRINGILLINÆ	unicode
+119761	Loxta	Loxia	
+119767	iUi'7'iyosira	curvirostra	
+119782	Lixx	LINN	
+119825	tliis	this	
+119854	gi-eater	greater	
+119923	Himakn-as	Himalayas	
+119967	lu	In	
+120002	principall}'	principally	
+120042	mouths	months	
+120296	.sometimes	sometimes	
+120677	positively'	positively	
+120754	entireh-	entirely	
+120833	sa_v	say	
+120917	Cyaiiospiza	Cyanospiza	
+121004	an}-	any	
+121059	j-ear	year	
+121946	tliougli	though	
+122069	The}^	They	
+122079	ver_y	very	
+122085	earh'	early	
+122445	faniilj^	family	
+122454	part}^	party	
+122460		,	punctuation
+122536	part}^	party	
+122542		,	punctuation
+122543	the}'	they	
+122777	mouutain	mountain	
+123915	cliip	chip	
+124665	nesl	nest	
+124803	dr\-	dry	
+124932	fri)m	from	
+124956	rarely-	rarely	
+124978	the}'	they	
+124984	var_v	vary	
+125025	gre_vish	greyish	
+125103	dai-k	dark	
+125132	underlj-ing	underlying	
+125301	Esc|	Esq	
+125329	3'oung	young	
+125356	largel}'	largely	
+125394	larvae	larvæ	unicode
+125674	fund	fond	
+125785	onl}'	only	
+125894	nn'	my	
+126025	geuerall_v	generally	
+126057	ver\-	very	
+126118	bnsil}'	busily	
+126126	emploj-ed	employed	
+126292	suuiller	smaller	
+126797	ver}'	very	
+127063	mj'	my	
+127488	wliicli	which	
+127533	liis	his	
+127834	awaj^	away	
+127963	awa}^	away	
+128069	i/iip	chip	
+128208	likel}-	likely	
+128347	the}-	the	
+128386	6tli	6th	
+128401	1S87	1887	numeric
+128485	sujaller	smaller	
+128526	irsed	used	
+128552	days	clays	
+128622	carefull}'	carefully	
+128742	b^^	by	
+129436	FRIXGILLILhE	FRINGILLIDÆ	unicode
+129462	FR I Mj 11. LLWE	FRINGILLNÆ	unicode
+129485	Pink	PINE	bird-name
+129501	Pyy)linla	Pyrrhula	
+129511	cmiclcatoy	enucleator	
+130057	probabilit}^	probability	
+130184	oul}-	only	
+130275	Jul}'	July	
+130703	aviar}'	aviary	
+130797	verj^	very	
+130973		,	punctuation
+130984	-	.	punctuation
+130986	.		punctuation
+131009	FRINGILLID.^	FRINGILLIDÆ	unicode
+131035	FRINGILLIN.^	FRINGILLINÆ	unicode
+131066	Py})hula	Pyrrhula	
+131075	curopaa	europœa	unicode
+131097	SHARPB	SHARPE	
+131114	distributiou	distribution	
+131357	b}-	by	
+131412	Fyrrhula	Pyrrhula	
+131429	y	."	
+131561	Pyyyhula	Pyrrhula	
+131570	niajoy	major	
+131628	vSiberia	Siberia	
+131987	e3'e	eye	
+133235	tlie	the	
+133240	melauisni	melanism	
+133251	whicli	which	
+133365	chief!}'	chiefly	
+133650	frequentl}"	frequently	
+133676	b}-	by	
+133795	wa3-side	wayside	
+133878	b}'	by	
+133933	iipper	upper	
+133953	lunnzontal	horizontal	
+133991	j-ew	yew	
+134058	blackberr}'	blackberry	
+134661	ci:p	cup	
+134759	ai^e	are	
+135033	rarel}'	rarely	
+135407	wdiich	which	
+135814	\veek	week	
+135865	nidificatiou	nidification	
+135966	Jul}^	July,	
+136284	steadil}^	steadily	
+136352	da}'	day	
+136720	diflScult	difficult	
+136896	hi	hoo	
+136935	ivlicoxs	wheo is	
+136944	abetter	a better	
+137115	particularl}'	particularly	
+137276	sj'stematicall}'	systematically	
+137687	captivit}'	captivity	
+137843	;	:	punctuation
+138041	3'ear	year	
+138372	b}'	by	
+139039	3'ou	you	
+139130	tlie	the	
+139308	thereb\'	thereby	
+139435	the}'	they	
+140130	aud	and	
+140410	^FRINGIL L ID. F	FRINGILLIDÆ	unicode
+140440	FR I XG I L L INAl	FRINGILLINÆ	unicode
+140497	erythrinm	erythrinus	
+141216	FRINGILLID.'E	FRINGILLIDÆ	unicode
+141243	FRINGILLIN.F	FRINGILLINÆ	unicode
+141278	horlulanus	hortulanus	
+141874	ma}'	may	
+142153	Swaj'sland	Swaysland	
+143134	j-ellowish	yellowish	
+143473	j-ouug	young	
+143485	ver}'	very	
+143498	3'ellow	yellow	
+143555	cpiestion	question	
+143665	Gatke	Gätke	unicode
+143984	Slcswick	Sleswick	
+144245	.summer	summer	
+144404	hill}'	hilly	
+144795	qnoted	quoted	
+144805	Seebolim	Seebohm	
+144970	Aur^s	Aurès	unicode
+145014	Inxuriant	luxuriant	
+145120	beautifull_v	beautifully	
+145549	puint	point	
+146493	gre}^	grey	
+146686	verj^	very	
+147211	Canar}-	Canary	
+147232	whect	wheet	
+147512	die	the	
+147723	geiieratiou	generation	
+147888	Air	Mr	
+148023	hojDed	hoped	
+148202	iu	in	
+148219	sa3's	says	
+148266	bu}^	buy,	
+148278	uot	not	
+148324	man}'	many	
+148419	war}-	wary	
+148481	may-	may	
+148521	Canar\'	Canary	
+148560	dail}'	daily	
+148638	al\va3's	always	
+148751	m}'	my	
+148784	iu	in	
+148827	vSerins	Serins	
+149032	Ma}'	May	
+149083	selectiug	selecting	
+149832	iu	in	
+150680	Familv	Family	
+150686	---	-	punctuation
+150690	FRINGILLID. E.	FRINGILLIDÆ.	unicode
+150706	Subfawtly	Subfamily	
+150716	FRINGILLIAVE	FRINGILLINÆ	unicode
+150744	Clitysomitris	Chrysomitris	
+150758	spinas.	spinus	
+151077	vSiskin	Siskin	
+151383	Surrej^	Surrey	
+151390		,	punctuation
+152284	A'cllow	yellow	
+152449	3-ellow	yellow	
+152691	3'ellow	yellow	
+152892	captivity-	captivity	
+153063	tlie	the	
+153211	gre3'er	greyer	
+153332	aboiit	about	
+153343	countr}-	country	
+153443	eagerl}-	eagerly	
+153612	strongl}'	strongly	
+153708	ni}-	my	
+153875	gUc	glee	
+153880	zei^ig	zeisig	
+153910	iit	tit	sound-simulation
+153943	JwoteUe	hootelee	
+153962	^f-Ar	glee	
+154072	aviar}-	aviary	
+154145	cc/.v/V	zeisig	
+154153	probabl}'	probably	
+154374	///	tit	
+154596	sa3-s	says	
+154621	]Ma3%	May,	
+154631	,	.	
+154766	continuall3-	continually	
+154815	Yon	You	
+154880	cr3%	cry,	
+154921	fl3'ing	flying	
+155087	jo3-ous	joyous	
+155122	oft"	off	
+155184	awa3'	away	
+155222	fnll	full	
+155230	auimation	animation	
+155281	witli	with	
+155287	pleasnre	pleasure	
+155306	particularl}'	particularly	
+155443	ponring	pouring	
+155575	vcr}-	very	
+155831	Ijirch	birch	
+156055	iipon	upon	
+156061	wdiich	which	
+156117	tliat	that	
+156123	tl;c	the	
+156359	horsel]airs	horsehairs	
+156546	usuallj'	usually	
+156646	gre3dsh	greyish	
+157377	captivit}'	captivity	
+157765	wonderfull}'	wonderfully	
+157901	aviar}'	aviary	
+157925	daj-s	days	
+157944	thoroughl}-	thoroughly	
+158069	fox-	for	
+158176	fl}'	fly	
+158196	aud	and	
+158207	directl}'	directly	
+158338	finall}-	finally	
+158724	awa_v	away	
+158742	man^-	many	
+158831	alwaj'S	always	
+158861	snrprisingh'	surprisingly	
+159325	m}'	my	
+159459	libert}^	liberty,	
+159526	presentl}'	presently	
+159815	3'oung	young	
+159932	FRINGILLIDyE	FRINGILLIDÆ	unicode
+159958	FKINGILLIN.F	FRINGILLINÆ	unicode
+159992	CJuysoinilt is	Chrysomitris	
+160007	ciirinclla	citrinella	
+160053	Yarmoutli	Yarmouth	
+160107	FRIXG ILL ID. E	FRINGILLIDÆ	unicode
+160125	Sii/La,uily	Subfamily	
+160137	LKL\ '( i/L L LW E	FRINGILLINÆ	
+160174	CdJ-LucIis	Carduelis	
+160185	clci^a)is	elegans	
+160196	vSteph	STEPH	
+160205	DR	R	
+160238	iuhabits	inhabits	
+160296	Canar}-	Canary	
+160397	Eg3'pt	Egypt	
+160453	Krasuo3-arsk	Krasnoyarsk	
+160765	man}-	many	
+161230	satinj'	satiny	
+161823	wdth	with	
+161843	ou	on	
+162382	wnili	with	
+162475	niostl}'	mostly	
+162506	tlie	the	
+162548	tlie	the	
+162609	witli	with	
+162615	l)iiffish	huffish	
+162727	horu	horn	
+162732	browu	brown	
+162855	nsuall}'	usually	
+162864	.slightly	slightly	
+163035	fi^r	far	
+163082	checks	cheeks	
+163155	distinctl}'	distinctly	
+163457	Gre3'	Grey	
+163514	huffish	buffish	
+163953	eas}-	easy	
+163970	j-oung	young	
+163993	diff"erent	different	
+164869	former!}'	formerly	
+165256	bN'	by	
+165275	onl}-	only	
+165303	supplj-	supply	
+165341	IVIerliii	Merlin	
+165500	throughoitt	throughout	
+165693	frequentl_y	frequently	
+165730	preferabl}'	preferably	
+166009	Usuall}^	Usually	
+166282	W00II3'	woolly	
+166521	entirel_v	entirely	
+166543	dr}-	dry	
+166615	l)uilt	built	
+166809	especiall}'	especially	
+166899	the3%	they,	
+167388	l]l/ci-c-ur	Whee-é-ur	unicode
+167401	whec-c-ur	whee-é-ur	unicode sound-simulation
+167412	whtc-c-nr	whee-é-ur	unicode sound-simulation
+167423	too-00-cc	too-oo-ee	sound-simulation
+167434	li-iveea	ti-weea	sound-simulation
+167444	ii-ivcca	ti-weea	sound-simulation
+167454	wliihvcea	whitweea	sound-simulation
+167465	cliiwliit	chiwhit	
+167476	c/iiivit	chiwit	sound-simulation
+167486	clira'it	chiwit	sound-simulation
+167497	whetc, ivhctc	wheec	sound-simulation
+167512	wlitcc	wheec, wheec	sound-simulation
+167557	b}^	by	
+167631	bod}-	body	
+167704	beai"s	bears	
+167814	(■////	chit	
+167849	chittcyi	chitteri	
+167888	tolerabl}'	tolerably	
+167998	frequeuth'	frequently	
+168147	3'oung	young	
+168189	cxteut	extent	
+168209	aud	and	
+168243	confiueinent	confinement	
+168308	aviar^y	aviary	
+168365	avicnlturists	aviculturists	
+168821	aud	and	
+168861	incessanth^	incessantly	
+168872		,	punctuation
+168915	''	"	punctuation
+168918	c/iiivif	chiwit	sound-simulation
+168928	ihh^'it	chiwit	
+168937	c/iiiviiy	chiwit	sound-simulation
+168946		.	punctuation
+168946		"	punctuation
+169108	spra}'	spray	
+169317	dai^e	dare	
+169414	aviar}^	aviary	
+169852	j-oung	young	
+169903	immediatel}'	immediately	
+170045	3'oung	young	
+170157	j-oung	young	
+170497	pkicked	plucked	
+170779	Canar^^	Canary	unicode
+170863	j-oung	young	
+171078	captivit}'	captivity	
+171210	ruy	my	
+171844	reality	really	
+172003	diifers	differs	
+172367	FRIXGILLID.^E	FRINGILLIDÆ	unicode bird-type
+172383	Suhfamilx	Subfamily	
+172393	FRIXGILLLW-E	FRINGILLINÆ	bird-type
+172428	Acanihis	Acanthis	
+172437	liiiaria	linaria	
+172581	ni/csccus	rufescens	
+172598	Iiorncmanni	hornemanni	
+172792	horncmanni	hornemanni	
+172947	separatel}-	separately	
+173087	.1	A	
+173091	n/fi-sciiis	rufescens	
+173126	liiiaria	linaria	
+173155	.7	A	
+173159	hoi iiema)i):i	hornemanni	
+173196	exiiipe^	exilipes	
+173370	closelj'	closely	
+173387	t3-pes	types	
+173550	usuall^^	usually	
+173572	sufliciently	sufficiently	
+173988	principall}'	principally	
+174552	Coburn	Coburu	person-name
+174885	wdiitish	whitish	
+175279	bufEsh	buffish	
+175385	3-ellowish	yellowish	
+175598	prominentl}'	prominently	
+175674	tliroat	throat	
+175699	youug	young	
+175792	sand}'	sandy	
+175862	ros}'	rosy	
+178030	^p	p	
+178296	.	,	
+178372	Canar\'	Canary	
+178391	tnvcy	tewey	
+179190	jMealy	Mealy	
+179258	sa3-s	says	
+179403	iVom	from	
+179531	apoplex}'	apoplexy	
+179669	j-oung	young	
+179721	vStoke	Stoke	
+179738	i860	1860	numeric
+180120	Singularl}'	Singularly	
+180604	Gatke	Gätke	unicode
+180806	4tli	4th	
+180815	5tli	5th	
+180859	"innumerable	“innumerable	unicode
+180938	co\-ered	covered	
+181203	iu	in	
+181239	gdutted	glutted	
+181267	R I mux	Family	
+181276	FRIXGILLID.E	FRINGILLIDÆ	unicode
+181302	FR I N(ULLL\L-E	FRINGILLINÆ	unicode
+181324	LEvSser	LESSER	
+181342	.■{ciDilhis	Acanthis	
+181354	ra/csci-ns	rufescens	
+181366	ViElLLOT	VIEILLOT	
+181384	iu	in	
+181403	aud	and	
+181423	iu	in	
+181568	Iu	In	
+181669	aud	and	
+181673	iu	in	
+181734	iu	in	
+181788	meaus	means	
+182056	abundantl}'	abundantly	
+182075	j-ear	year	
+182347	huffish	buﬃsh	unicode
+182389	iu	in	
+182614	huffish	buﬃsh	unicode
+182657	:it	at	
+182697	bUickish	blackish	
+182706	bruw n	brown	
+182720	hazeL	hazel	
+182725		.	punctuation
+182807	slightl}-	slightly	
+182927	uuile	male	
+182938	^-oung	young	
+182945	ncarl_v	nearly	
+183104	iu	in	
+183236	the}'	they	
+183304	iu	in	
+183405	Meal}'	Mealy	
+183578	neatl}'	neatly	
+183691	drj'	dry	
+184060	nearly'	nearly	
+184216	iu	in	
+184508	Alurston	Murston	
+184679	entireh'	entirely	
+184769	f	†	punctuation
+184818	L	I	
+184819		,	punctuation
+184821	-	.	punctuation
+184905	Iwenty	twenty	
+185121	Tliey	They	
+185184	tliey	they	
+185545	clierr}-	cherry	
+185605	r^Ir	Mr	
+185855	sixt}'	sixty	
+186057	IVIay	May	
+186310	ni}-	my	
+187075	quantit}'	quantity	
+187639	w-ater	water	
+187972	iu	in	
+187975	coufiuemeut	confinement	
+188254	ver}^	very	
+188298	Brambliug	Brambling	unicode
+188396	railwaj'	railway	
+188520	M}-	My	
+188652	onl}'	only	
+188878	Beverle3%	Beverley	
+188887		,	punctuation
+189113	b_y	by	
+189246	man}'	many	
+189404	iu	in	
+189512	3'ellowish	yellowish	
+189591	ver}-	very	
+189716	Gatke	Gätke	unicode
+189918	identit}^	identity	
+190127	Favnly	Family	
+190134	FRLYGILLID.E	FRINGILLIDÆ	unicode
+190160	FRLXG ILL I l\L-E	FRINGILLINÆ	unicode
+190184	Tamte	TWITE	
+190192	Acaiithis	Acanthis	
+190202	/lavuvsh'is	flavirostris	
+190225	tlie	the	
+190268	Sliarpe	Sharpe	
+190831	Ital}^	Italy	
+191176	1S94	1894	numeric
+192475	Mountaiu	Mountain	
+192517	ueb	neb	
+192521	Liutie	Lintie	
+192573	iu	in	
+192610	moorlauds	moorlands	
+192636	portious	portions	
+192654	Britaiu	Britain	
+192825	aud	and	
+193073	iu	in	
+193239	feediug	feeding	
+193354	b}'	by	
+193615	hvah	twah	
+193856	iu	in	
+193918	rock}^	rocky	
+194772	cimiplete	complete	
+194837	la}-	lay	
+195192	uidification	nidification	
+195596	iu	in	
+195703	the}-	they	
+195892	the}'	they	
+196719	fAca)ilhis	(Acanthis	
+197187	iu	in	
+197662	storni}'	stormy	
+197848	i6th	16th	numeric
+198234	un	on	
+198242	iQtIi	19th	
+198253	arc	are	
+198472	liad	had	
+198580	the}'	they	
+198610	thej'	they	
+198726	j-oung	young	
+198947	the}-	they	
+199269	!	†	punctuation
+199277	^	-	punctuation
+199278	FRlXGlLLID.E	FRINGILLIDÆ	unicode
+199293	SuhJamily	Subfamily	
+199302	^	-	punctuation
+199303	I'RIXGILLLWF	FRINGILLINÆ	unicode
+199318	Thf:	THE	
+199332	.■Icdiit/ns	Acanthis	
+199344	cniniahinit	cannabina	
+199371	tlirougliotit	throughout	
+199410	iu	in	
+199413	Scandiuavia	Scaudinavia	
+199442	iu	in	
+200209	broadlj^	broadly	
+200346	narrow!}'	narrowly	
+200701	bufhsh	buffish	
+200710	ear- coverts	ear-coverts	
+200871	j^oungish	youngish	
+200889	bell}^	belly	
+201667	nianj?	many	
+201674	bntterflies	butterflies	
+201804	radins	radius	
+201815	nlua	ulna	
+201898	hiunerus	humerus	
+202042	cmurgiuate	emarginate	
+203256	considerabl}-	considerably	
+204263	raereed	ragged	
+204461	huffish	buffish	
+205062	fe//	tell	
+205074	telF	tell	
+205078	''	"	punctuation
+205127	j^ou	you	
+205393	tiirra!	turra	
+205400		.	punctuation
+205400	''	"	punctuation
+205461	tivit	twit	
+205494	tc-eivy	te-ewy	
+205538	chkm	chiwi	sound-simulation
+205544	chhm	chiwi	sound-simulation
+205550	chiivi	chiwi	sound-simulation
+205736	througli	through	
+205833	c/ii'ck	chick	sound-simulation
+205899	''	"	punctuation
+206051	ia)i)ial)i)i(t	cannabina	
+206230	vSaunders	Saunders	
+206581	capacit}'	capacity	
+206595	niimicr}-	mimicry	
+206608	an}'	any	
+206660	ni}'	my	
+206692	il_ving	flying	
+206745	3-ears	years	
+206766	be3-ond	beyond	
+206995	nt)t	not	
+207207	countrj-	country	
+207402	Linuet	Linnet	
+208069	the}-	they	
+208492	uld	old	
+209208	IL	II	
+209210		.	punctuation
+209263	Gurne3^	Gurney,	
+209516	nu-	my	
+209611	carrj'	carry	
+209618	off"	off	
+209824	theoreticall}'	theoretically	
+210031	FRINGILLID.-E	FRINGILLIDÆ	unicode
+210058	FRINGILLINAi	FRINGILLINÆ	unicode
+210100	domcsticus	domesticus	
+210225	Italj^	Italy	
+210307	italice	italiœ	unicode
+210390	Ce^don	Ceylon	
+210433	lu	In	
+210469	tlie	the	
+210512	iuto	into	
+210532	Zealaud	Zealand	
+210564	wheie	where	
+210655	Sautiders	Saunders	
+210771	liis	his	
+210806	usualh'	usually	
+210926	nuile	male	
+211002	gre}-	grey	
+211439	blackisli	blackish	
+211449	gre}-	grey	
+211690	ljrowu	brown	
+211728	browu	brown	
+211911	ash}^	ashy	
+212292	j-ellowish	yellowish	
+212457	superciliarj'	superciliary	
+212739	largel}-	largely	
+213061	dr}'	dry	
+213075	wlien	when	
+213196	countr_v	country	
+213813	onl}'	only	
+213861	i^ows	rows	
+214038	huugr}'	hungry	
+214362	progeu}'	progeny	
+214451	3-oung	young	
+214513	partl}^	partly	
+215479		.	punctuation
+215601	bulk}'	bulky	
+215719	directl}'	directly	
+215738	cavit}'	cavity	
+215867	liaugiug	hanging	
+215879	tlie	the	
+215891	uf	of	
+215938	i6	16	numeric
+216142	nu-	my	
+216509	v.'hite	white	
+216606	Slirike	Shrike	
+216628	,	.	punctuation
+216764	grouud	ground	
+216968	ma}-	may	
+217671	repl}'-	reply	
+217844	j-ou	you	
+217999	journal	journal	
+218006		!	punctuation
+218127	mouth	month	
+218420	c/iow	chow	sound-simulation
+218427	choiu	chow	sound-simulation
+218448	choiv	chow	sound-simulation
+218507	b}'	by	
+218569	3^oung	young	
+218733	uote	note	
+218738	-wliicli	which	
+218760	Witcliell	Witchell	
+218803	souuds	sounds	
+218821	c/iov.1	chow	
+218916	rarel}^	rarely	
+218991	haud	hand	
+219043	sougs	songs	
+219140	Canary	Canary	unicode
+219412	Canar}'	Canary	
+219500	larvae	larvæ	unicode
+219588	Loudon	London	
+219863	FRINGILLID^	FRINGILLIDÆ	unicode
+219887	FRINGILLIALF	FRINGILLINÆ	unicode
+219928	nioiitanus	montanus	
+219947	SEEBOHM	REEBOHM	
+220072	Palsearctic	Palæarctic	unicode
+220405	Afgliaiiistau	Afghanistan	
+220420	aud	and	
+220446	fouud	found	
+220475	througliout	throughout	
+220705	rarit}-	rarity	
+220891	steadil}'	steadily	
+221043	iu	in	
+221074	Derry	Deny	
+221080	iu	in	
+221377	compau}'	company	
+221498	slightl}'	slightly	
+221778	bands	bauds	
+221816	sunnner	summer	
+221844	iu	in	
+222161	fouud	found	
+222360	shj-ness	shyness	
+223026	generall}'	generally	
+223078	iu	in	
+223099	especiallj^	especially	
+223369	iu	in	
+223550	iu	in	
+224266	var3'	vary	
+224557	iu	in	
+225003	bide	hide	
+225205	mo-t	most	
+226375	iu	in	
+226378	cuUmriug	colouring	
+226393	uest	nest	
+226398	contaiuiug	containing	
+226409	au	an	
+226449	liuie	lime	
+226455	kilu	kiln	
+226469	ahuost	almost	
+226653	probabl}'	probably	
+227090	famih'	family	
+227164	frequentl}'	frequently	
+228129	an}'	any	
+228194	iu	in	
+228444	t	†	punctuation
+228583	iu	in	
+228589	aviar}-	aviary	
+228911	stead}'	steady	
+229051	aviar}'	aviary	
+229127	necessaril_y	necessarily	
+229333	Ou	On	
+229447	verj'	very	
+229453	sliort	short	
+229589	FKIXGILL ID. E	FRINGILLIDÆ	unicode
+229606	SnbJainiiy	Subfamily	
+229617	FRIXGILLIN^	FRINGILLINÆ	unicode
+229647	Fiingilla	Fringilla	
+229657	ccclcbs	cœlebs	unicode
+229666	LiXN	LINN	
+229705	FringiUidcc	Fringillidœ	unicode
+229865	Fringi/Iincr	Fringillinœ	unicode
+230116	Fringill	Fringilla	
+230734	aud	and	
+230982	tlie	the	
+231526	iVont	front	
+231570	aud	and	
+231903	aud	and	
+232083	the}'	they	
+232408	ver}'	very	
+232521	aud	and	
+232774	aud	and	
+233151	immediatel}'	immediately	
+233175	Einbcrizina	Emberizinœ	unicode
+233494	heu	hen	
+233513	snbdued	subdued	
+233823	earl}'	early	
+234110	tioyi-nl	turrrrrl	sound-simulation
+234120	ioi)yi'rI	torrrrrl	sound-simulation
+234418	variousl}-	variously	
+234532	cliuclia	chucha	
+234541	c/turr	churr	
+234559	fiisi	tissi	sound-simulation
+234565	iar	ear	sound-simulation
+234574	frequentl}'	frequently	
+234586	ivhcatcar	wheatear	
+234660	c/iucktvados	chuckwados	
+234673	'		
+235080	hvi/	twit	
+235105	}'Oung	young	
+235124	chizzif	chizzit	
+235133	cltizzit	chizzit	
+235143	cliizzit	chizzit	
+235193	cliizzic/c	chizzick	
+235206	sa3'S	says	
+235301	cliick	chick	
+235398	tzviiik	twink	
+235407	spiiik	spink	
+235922	exceedingh-	exceedingly	
+236048	pretty'	pretty	
+236091	glaringl}'	glaringly	
+236232	hand}^	handy,	
+236325	freqiieutl}'	frequently	
+236398	wonld	would	
+236901	freciuentl}-	frequently	
+237010	da^-s	days	
+237093	la^'	lay	
+237131	slightl}'	slightly	
+237230	h\	by	
+237317	Derweut	Derwent	
+237440	b}'	by	
+237572	Canarj-	Canary	
+237754	b}-	by	
+237911	t\pe	type	
+237983	spiders'	spiders’	unicode
+238068	la3'er	layer	
+238215	hardl}-	hardly	
+238839	I'eddish	reddish	
+238861	t3'pe	type	
+239052	certainl}-	certainly	
+239258	larvae	larvæ	unicode
+239352	chiefl}'	chiefly	
+239361	upou	upon	
+239447	3'ears	years	
+239557	certaiul}^	certainly	
+239747	eas}^	easy	
+239765	the}^	they	
+240045	ChafSnch	Chaffinch	
+241040	anj^one	anyone	
+241244	Canary/	Canary	
+241564	Fringillida:	Fringillidœ	unicode
+241810	Emberizince	Emberizinœ	unicode
+241830	 FR I X(UL L ID. ¥..	FRINGILLIDÆ	unicode
+241850		.	punctuation
+241852	Suh/amily	subfamily	
+241863	^FRIXGIL L IN^E	FRINGILLINÆ	unicode
+241885	Bramblixg	BRAMBLING	
+241897	Frinoii/d	Fringilla	
+241907	iiii>iitijriii<^illii	nontifringilla	
+241930	LiNX	LINN	
+241937	OI""	OF	
+241942	tlie	the	
+241947	distribiuiou	distribution	
+241960	uf	of	
+241983	vSauiiders	Saunders	
+241998	;	:	punctuation
+242021	Brambliug	Brambling	
+242066	tlie	the	
+242071	niainhmd	mainland	
+242090	throughont	throughout	
+242159	valle}'	valley	
+242181	wliile	while	
+242377	Alediterraueau	Mediterranean	
+242521	P3'renees	Pyrenees	
+242797	generalh'	generally	
+243128	phnnage	plumage	
+244181	luargius	margins	
+244225	ueck	neck	
+244315	ou	on	
+244458	plnmage	plumage	
+244466	bnt	but	
+244484	dnller	duller	
+244509	npper	upper	
+244576	mnch	much	
+244601	yonng	young	
+244642	bnt	but	
+244656	qnickly	quickly	
+244693	colonriug	colouring	
+244718	plnmage	plumage	
+244888	Chafflnch	Chaffinch	
+245536	Brambliug	Brambling	
+245816	j)	p	
+246225	ou	on	
+246774	beiug	being	
+247298	tgg	egg	
+247431	browu	brown	
+247706	Init	but	
+247914	zs/nvtro	zshweeo	
+248241	iv/t//	whit	
+248298	zw	ziv	
+248659	ivhcat	wheat	
+248666	car	ear	sound-simulation
+248673	iissi	tissi	sound-simulation
+248679	car	ear	
+248848	maj-	may	
+249382	simplj-	simply	
+249713	da^-s	days	
+250236	turucd	turned	
+250246	iuto	into	
+250584	greatl}'	greatly	
+250993	FRINGILLID.E	FRINGILLIDÆ	unicode
+251019	FRINGILLIN.F	FRINGILLINÆ	unicode
+251051	lllonli/yingilla	Montifringilla	
+251077	LlNN	LINN	
+251084	N	IN	
+251245	I-'RIX(]ILLID.-E	FRINGILLIDÆ	unicode
+251264	Suhjamily	Subfamily	
+251275	EMBERIZIA\-E	EMBERIZINÆ	unicode
+251307	Euntixo	BUNTING	
+251317	Eiiiho'iza	Emberiza	
+251328	))!c!iiiioiipliaia	melanocephala	
+251367	tlic	the	
+251400	Buutiug	Bunting	
+251419	auy	any	
+251777	German}^	Germany	
+251846	ludia	India	
+252115	Gatke	Gätke	unicode
+252253	^	;	punctuation
+252255	i*^	it	
+252259	i''	is	
+252263	''^^i	an	
+252662	.species	species	punctuation
+253316	5-ear	year	
+253590	b}-	by	
+253654	probabl}^	probably	
+253759	Februar}'	February	
+253923	stufted	stuffed	
+253952	Steele	Steele	
+254327	mj-	my	
+254430	uot	not	
+254444		.	punctuation
+254445	■major	major	
+255555	buflish	buffish	
+257131	conspicuou.sly	conspicuously	
+257985	btit	but	
+258589	ctmsists	consists	
+258641	nut	not	
+258665	\-ery	very	
+258773	clitt	chit	
+258875	''	"	punctuation
+258955	chiriririy	chiririri.	sound-simulation
+258965		"	punctuation
+259456	aviar}-	aviary	
+259493	l)e	be	
+259633	daugerousl}-	dangerously	
+259698	FRINGILLID.-E	FRINGILLIDÆ	unicode
+259714	Suhfamily	Subfamily	
+259724	EMBERIZIN.F	EMBERIZINÆ	
+259757	E)iiberiza	Emberiza	
+260016	Norwa}'	Norway	
+260093	Riea	Riga	
+260507	Petrsea	Petræa	unicode
+261385	.shores	shores	
+261675	dai'k	dark	
+261705	primary-	primary	
+261719	j-elluwish	yellowish	
+261896	sparsel}'	sparsely	
+262227	3-ellow	yellow	
+262252	oclire	ochre	
+262260	3'ellow	yellow	
+262359	grej-er	greyer	
+263052	frequeutl}'	frequently	
+263105	ungainlj'	ungainly	
+263136	apolog}^	apology	
+263669	'' kis	“tees	unicode sound-simulation
+263677	tcis	tees	sound-simulation
+263683	/ccs	tees	sound-simulation
+263689	tis-is-is-s-s-r-r-rc,'"	tis‐is-is-s-s-r-r-re,”	unicode sound-simulation
+263732	''■tk-tic-tccsc,''	“tic-tic-teese,”	unicode sound-simulation
+264006	kaak^	kaak	
+264011		."	punctuation
+264012	Tlie	The	
+264047	clums}^	clumsy	
+264071	strung	strong	
+264081	tlie	the	
+264670	rarel}-	rarely	
+264679	watli	with	
+264768	oonsisting	consisting	
+264891	the}-	they	
+265194	densel}-	densely	
+265343	couiluent	confluent	
+265401	extremit_y	extremity	
+265481	Ma}^	May	
+265844	larvae	larvæ	unicode
+265936	cjuantities	quantities	
+266625	uupleasing	unpleasing	
+266824	-	.	punctuation
+266961	uesting	nesting	
+266994	Mulheini	Mulheim	
+267029	abuudantl}-	abundantly	
+267156	indifferent!}-	indifferently	
+267247	tlie	the	
+267474	embod3'ing	embodying	
+267652	Skjdark	Skylark	unicode
+267667	1	I	
+267746	capacit}'	capacity	
+267767	I' K /A 'GIL L ID. E	FRINGILLIDÆ	unicode
+267790	Sub/a iiuiy	Subfamily	
+267803	EMBERIZIN. E	EMBERIZINÆ	unicode
+267839	Eiiihiviza	Emberiza	
+267850	ci/riinlla	citrinella	
+267931	^from	from	
+268525	tliis	this	
+268652	Buntiug	Bunting	
+268696	consideiably	considerably	
+268709	iu	in	
+269516	\\-ith	with	
+270241	jarts	parts	
+270566	3'oung	young	
+271253	iu	in	
+271541	wheu	when	
+271819	ni	of	
+271865	cliink\	chink	
+271872		,	punctuation
+271908	cluc	chee	
+272393	(Inch	chich	
+272400	cliicli	chich	
+272698	Tlie	The	
+272730	dowm	down	
+273967	o^g^	egg	
+274024	sieuua	sienna	
+274162	HI	III	
+275783	frequentl}'	frequently	
+275874	ffcyrclup	ﬀerrelup	unicode
+276069	3'ou	you	
+276582	.close	close	
+277061	larvae	larvæ	unicode
+277218	fouder	fonder	
+277771	sliilling	shilling	
+277838	parti}'	partly	
+278233	aviar}-	aviary	
+278267	the}'	they	
+278300	.irbor	Arbor	
+278307	vita	vitœ	
+279409	FRlXi UL L ID. F	FRINGILLIDÆ	unicode
+279428	Suhjaiiiily	Subfamily	
+279440	FHIBFRIZIA >F	EMBERIZINÆ	
+279486	Fiiibcnza	Emberiza	
+279496	autcola	aureola	
+279514	N	AN	
+279536	shut	shot	
+279544	Clc}-	Cley	
+279657	FRFXGILLID.F	FRINGILLIDÆ	unicode
+279672	Suhfam ily	Subfamily	
+279683	EMBERIZIN\F	EMBERIZINÆ	
+279716	Eiiibcriza	Emberiza	
+279727	chins	cirlus	
+280226	rave	rare	
+280535	reeogni/.ed	recognized	
+280553	eollcctiou	collection	
+280566	cluteli	clutch	
+280640	ou	on	
+280643	Jnnc	June	
+280668	nuqnestionably	unquestionably	
+280692	R	E	
+280695	cir/us	cirlus	
+280854	i<S8(S	1888	numeric
+281209	longitudinall}^	longitudinally	
+281346	j-ellow	yellow	
+281705	nearl}'	nearly	
+281775	verv	very	
+282146	nearl}'	nearly	
+282370	nearh-	nearly	
+282623	rarel}-	rarely	
+282699	ninch	much	
+282822	Northampton.shire	Northamptonshire	
+282940	sa^-s	says	
+283087	ou	on	
+283865	chea-c/icy	chea-che	
+283875		."	
+283898	niv	my	
+283936	1^77	1877	
+283944	frequenlh^	frequently	
+284150	AIa\'	May	
+284281	m}-	my	
+284419	Ma}-	May	
+284483	ver}-	very	
+285299	rarel}-	rarely	
+285411	foiir	four	
+285774	occasionall}'	occasionally	
+285890	looselj'	loosely	
+285974	routs	roots	
+285981	aud	and	
+286029	oue	one	
+286072	fiue	fine	
+286237	liave	have	
+286501	Gatke	Gätke	unicode
+286615	Zaiincviniur	Zaunammer	
+286747	Einhoiza	Emberiza	
+286776	Zippa»n>icr	Zippammer	
+286826	Gatke	Gätke	unicode
+286886	Embcriza	Emberiza	
+286895	chins	cirlus	
+286948	b}'	by	
+287118	Einboiza	Emberiza	
+287127	ichccnicluis	schœniclus	unicode
+287652	greed}-	greedy	
+288151	suddenlj-	suddenly	
+288193	FRINGILLID. E	FRINGILLIDÆ	unicode
+288220	EMBERIZLW E	EMBERIZINÆ	unicode
+288234	Tiiiv	THE	
+288240	Ortulax	ORTOLAN	
+288248	Buxtixg	BUNTING	
+288258	Emlio'i'-a	Emberiza	
+288269	hoiiiihuui	hortulana	
+288281	LiNX	LINN	
+288288	" T N	IN	
+288294	Scaudiuavia	Scandinavia	
+288310	uortheni	northern	
+288341	rauge	range	
+288369	I circle	circle	
+288381	'		punctuation
+288439	hit	lat	
+288513	vallc}-	valley	
+288661	Elinor	Minor	
+289198	Ab}-ssinia	Abyssinia	
+289299	-	.	punctuation
+290525	aud	and	
+290561	browu	brown	
+290667	aud	and	
+290671	browuer	browner	
+290827	onl\'	only	
+291134	libert}*	liberty	
+291963	INIay	May	
+292006	"		punctuation
+292264	aud	and	
+292268	slightl}^	slightly	
+292380	au	an	
+292438	;	:	punctuation
+292544	materiall}-	materially	
+292691	aud	and	
+292752	melauchol}-	melancholy	
+292860	/loooo	hoooo	
+293083	Ij'iug	lying	
+293156	ma}-	may	
+293272	aud	and	
+293323	3'ou	you	
+293340	30U	you	
+293352	3our	your	
+293493	realit}-	reality	
+293651	captivit}'	captivity	
+293690	equall}'	equally	
+294165	lylannikius	Mannikins	
+294190	aviar}'	aviary	
+294332	thev	they	
+294374	the}'	they	
+294479	the}'	they	
+294849	iu	in	
+295259	show-	show	
+295469	Russ'	Russ’	unicode
+296093	SiVcrora	Sitagra	
+296102	f	(	punctuation
+296290	Liolhrix	Liothrix	
+296299	aud	and	
+296303	Zosferops	Zosterops	
+296334	mauy	many	
+296418	l)ehaviour	behaviour	
+296435	aud	and	
+296548	aud	and	
+296593	.		punctuation
+296618	bathiug	bathing	
+296663	the}/	they	
+296732	aud	and	
+296871	I'KlNiJILLID. E	FRINGILLIDÆ	unicode
+296889	Suhfamily	Subfamily	
+296899	EMBERIZIX. E	EMBERIZINÆ	
+296935	E/iiixrizd	Emberiza	
+296946	iia	cia	
+296958	WO	TWO	
+297009	i()02	1902	numeric
+297060	FRINCjIL L ID. E	FRINGILLIDÆ	unicode
+297079	SuhJamily	Subfamily	
+297089	EMBERIZIN. E	EMBERIZINÆ	unicode
+297132	Eiiibciiza	Emberiza	
+297143	aoidcs	cioides	
+297174	tlie	the	
+297494	Eamtly	Family	
+297501	ERLYGILLID.E	FRINGILLIDÆ	
+297516	Suhfamiiy	Subfamily	
+297526	EMBERIZLWE	EMBERIZINÆ	
+297560	Eiiihcriza	Emberiza	
+297571	rusliid	rustica	
+297835	L'mdon	London	
+298311	^FRINGILLID. E	FRINGILLIDÆ	unicode
+298328	SuhJamily	Subfamily	
+298338	EMBERIZLW E	EMBERIZINÆ	
+298373	Eiiilia-iza	Emberiza	
+298385	piihilla	pusilla	
+298408	specinieu	specimen	
+298431	uear	near	
+298458	and	2nd	numeric
+298463	1S64	1864	numeric
+298599	Eair	Fair	
+298685	(October	October	
+298853	FRINGILLID.E	FRINGILLIDÆ	unicode
+298879	EMBEREZIN.'E	EMBERIZINÆ	unicode
+298913	Eiiibcriza	Emberiza	
+298924	sclianicliis	schœniclus	unicode
+299410	x\frica	Africa	
+299475	iu	in	
+299497	uud	and	
+299514	snbspecies	subspecies	
+299725	onh-	only	
+300391	smok3'	smoky	
+300851	ueck	neck	
+301099	superciliar}^	superciliary	
+302246	count}-	county	
+302326	maj-	may	
+302350	seasous	seasons	
+302388	aud	and	
+302475	aud	and	
+302522	tlie	the	
+302790	Canterbur}'	Canterbury	BROKEN
+302960	Salisbur_v	Salisbury	
+303055	vears	years	
+303083	uested	nested	
+303103	mouth	month	
+303139	uests	nests	
+303213	f )und	found	
+303337	mouth	month	
+303357	contaiuing	containing	
+303517	Jig	fig	
+303522	igS	198	numeric
+303526	J	)	punctuation
+303730	Jauseu	Jansen	
+304241	aud	and	
+304299	tin\'	tiny	
+304403	Tliis	This	
+304580	aud	and	
+304704	b}'	by	
+304905	Iier	her	
+304910	uest	nest	
+305085	iu	in	
+305744	pcipcii	perpen	
+305753	diciday	dicular	
+305761	stciiis	stems	
+305918	iu	in	
+306572	var^dng	varying	
+306725	ixnderlying	underlying	
+307621	chco	cheo	sound-simulation
+307633	chcc	chee	sound-simulation
+307639	chce	chee	sound-simulation
+307645	chcc	chee	sound-simulation
+307685	zshivec	zshwee	
+307724	tsclicc	tschee	
+307811	cr}^	cry	
+307878	larvse	larvæ	unicode
+307908	snmmer	summer	
+307939	:	;	punctuation
+308582	recentl3^	recently,	
+308967	^	-	punctuation
+308968	FRINGILLID.'E	FRINGILLIDÆ	unicode
+308995	EMBERIZIN.F	EMBERIZINÆ	unicode
+309031	CahdriKs	Calcarius	
+309040	/(ifpoiiiais	lapponicus	
+309054	Lixx	LINN	
+309545	Seebolim	Seebohm	
+309579	bnt	but	
+309701	tu	to	
+309817	iu	in	
+310020	mn-th	north	
+310038	iu	in	
+310041	vSouth	South	
+310099	]\Ianual	Manual	
+310130	:;	2	numeric
+310820	Flaniborough	Flamborough	
+312120	feuiale	female	
+312496	parti}'	partly	
+312590	tawu}-	tawny	
+312724	mure	more	
+313094	iith	11th	numeric
+313099	Ma}-	May	
+313159	an	au	
+313250	iu	in	
+313429	awa}-	away	
+313568	particularl}-	particularly	
+313779	Seebolim	Seebohm	
+313941	iu	in	
+313964	i8th	18th	numeric
+314039	i	½	unicode
+314300	principall}'	principally	
+314316	compau}-	company	
+315258	chciig	cheng	
+315334	gutturall}'	gutturally	
+315477	generally'	generally	
+315511	fl\"ing	flying	
+315742	iltct'	chee	
+315842	Laj^land	Lapland	
+315929	groiind	ground	
+315970	dr}'	dry	
+316243	marsh}-	marshy	
+316315	profusel}-	profusely	
+316494	gre}'	grey	
+316555	iinderlying	underlying	
+316595	var}'	vary	
+316816	IL	II,	
+316840	Gatke	Gätke	unicode
+316971	wilduess	wildness	
+317072	3'ears	years	
+317138	melanchol}^	melancholy	
+317389	onlj^	only	
+317947	moiilt	moult	
+318123	Gatke	Gätke	unicode
+318308	np	up	
+318397	Air	Mr	
+318408	Gurne}-	Gurney	
+318544	probabl}'	probably	
+318692	certainl}'	certainly	
+319118	FRINGJLLID.E	FRINGILLIDÆ	unicode
+319133	SiihJaniily	Subfamily	
+319145	EMBERIZIN^F:	EMBERIZINÆ	unicode
+319179	Plectroplunax	Plectrophenax	
+319193	niva/is	nivalis	
+319202	Lixx	LINN	
+319210	ACIRCUAIPOLAR	ACIRCUMPOLAR	
+319631	IMalta	Malta	
+319686	Ital}'	Italy	
+320072	Saxb}-	Saxby	
+320083	Juh-	July	
+320088	and	2nd	numeric
+320093	1 86 1	1861	
+320104	Jul}'	July	
+320135	Hinanian	Hinaman	
+320159	3-oung	young	
+320302	Graut	Grant	
+320395	Raunoch	Rannoch	
+320577	lour	four	
+320928	grej'er	greyer	
+321511	IMountain	Mountain	
+321521	Bnnting	Bunting	
+321534	Lorraiu	Lorrain	
+321841	ever}'	every	
+322371	the}-	they	
+322636	the}'	they	
+322863	^	,	punctuation
+322865	^ve	we	
+323023	varions	various	
+323119	nearly-	nearly	
+323210	huntiug	hunting	
+323538	geuerallv	generally	
+323572	strictl}'	strictly	
+323838	apllj^	aptly	
+324024	b\'	by	
+324035	grej'	grey	
+324165	uidification	nidification	
+324298	earl}'	early	
+324461	dr}'	dry	
+324570	cpiantity	quantity	
+324673	iisual	usual	
+324725	considerabl}'	considerably	
+325635	soug	song	
+325868	fl^'ing	flying	
+325983	fivcck	tweek	
+326042	zslnveco	zshweeo	
+326588	Gatke	Gätke	unicode
+326655	frequently'	frequently	
+327051	b}'	by	
+327070	Gnnton	Gunton	
+327155	Gorton	Corton	
+327183	nearl}-	nearly	
+327518	the}'	they	
+327762	ver}'	very	
+328083	stuff}'	stuffy	
+328561	Fieldeu	Fielden	
+328587	,		punctuation
+328592	iu	in	
+328635	Basiu	Basin	
+328651	Ou	On	
+328692	Suow	Snow	
+328697	Buuting-	Bunting	
+328706	fPlectropliauis	(Plectrophanes	
+328744	onr	our	
+328884		-	punctuation
+328885	postnre	posture	
+328904	Hnsh	Hush	
+328910	hnsh	hush	
+328919	yon	you	
+329020		'"	punctuation
+329022	IMy	My	
+329153	iu	in	
+329229	vSTURNID^	STURNIDÆ	unicode
+329322	hicridcr	Icteridœ	unicode
+329381	ou	on	
+329424	Corvida	Corvidœ	unicode
+329596	aud	and	
+329605	loug	long	
+329662	uot	not	
+329685	wlieu	when	
+329843	wheu	when	
+330004	aud	and	
+330085	hungr}'	hungry	
+330097	consequentl}-	consequently	
+330384	iu	in	
+330399	iu	in	
+330416	aud	and	
+330552	iu	in	
+330620	Ictcridcc	Icteridœ	unicode
+330680	j^ears	years	
+330702	iu	in	
+330779	Ictcyus	Icterus	
+330995	Stuiiiidcc	Sturnid	unicode
+331037	Icki tdcc	Icterid	unicode
+331051	Coivida	Corvid	unicode
+331253	Stuniidcc	Sturnid	unicode
+331267	Icicrida	Icterid	unicode
+331580	Fawily	Family	
+331587	STURNW.-E	STURNIDÆ	
+331614	Sfitniiis	Sturnus	
+331737	Ital}'	Italy	
+331836	Ital}'	Italy	
+332092	generall}-	generally	
+332330	ever3'where	everywhere	
+332342	abuudaut	abundant	
+332351	iu	in	
+332389	nsed	used	
+332400	b}'	by	
+332472	commou	common	
+332482	uearh'	nearly	
+332495	count}'	county	
+332523	Ijreeding	breeding	
+332748	iu	in	
+332821	e.xceptiug	excepting	
+333408	sandj'	sandy	
+333444	gre3-er	greyer	
+333514	conspicuousl}'	conspicuously	
+333716	imder	under	
+333784	iu	in	
+334219	ma}'	may	
+334275	iu	in	
+334858	evidentl}-	evidently	
+335465	earl}'	early	
+335693	.	,	punctuation
+336007	cali	cah	
+336111	reed}-	reedy	
+336127	apparentl}'	apparently	
+336249	Joey	Foey	
+336254	dcc-ur	dee-ur	
+336261	Iicc-ur	hee-ur	
+336274	hcc	hee	
+336278	ver}'	very	
+336317	j'oung	young	
+336767	beautifull}'	beautifully	
+337147	4-incli	4-inch	
+337604	beeu	been	
+337673	the_v	they	
+337690	easil}-	easily	
+338166	m}-	my	
+338306	onlj-	only	
+338459	larvae	larvæ	unicode
+339053	heav}^	heavy	
+339808	thej'	they	
+340205	b}-	by	
+340217	incessantlj'	incessantly	
+340398	clever!}-	cleverly	
+340430	uute	note	
+340652	bod}'	body	
+340830	torm	form	
+340887		-	punctuation
+340887	STURNID.^	STURNIDÆ	unicode
+340935	loseus	roseus	
+341893	}ear	year	
+342211	\vas	was	
+342287	lias	has	
+342316	ever}'	every	
+342323	count}-	county	
+342436	Ma}'	May	
+342481	\'ide	Vide	
+342541	Scill}-	Scilly	
+342608	iu	in	
+343593	usualh-	usually	
+343800	Andropogoii	Andropogon	
+343812	soy ah us y	sorghus)”	unicode
+345177	ilocks	flocks	
+345265	tliey	they	
+345711	ver}-	very	
+346130	Kriiper	Krüper	unicode
+346504	c^uarries	quarries	
+347574	Turdida	Turdidœ	unicode
+347589	lyilford	Lilford	
+348022	roscns	roseus	
+348622	livel}^	lively	
+349019	iip	up	
+349135	Whei^e	Where	
+349528	S/iinius	Sturnus	
+349537	vult^aris	vulgaris	
+349779	nnnatural	unnatural	
+349828	CORVID.F:	CORVIDÆ	unicode
+350339	Pyrrliocoyax	Pyrrhocorax	
+350472	Altci/raga	Nucifraga	
+350622	wiug	wing	
+350637	Gaii-ulus	Garrulus	
+351027	primar}^	primary	
+351067	Coi'viis	Corvus	
+351428	immusical	unmusical	
+351450	bulk}'	bulky	
+351789	Corvida.	Corvidœ	unicode
+352341	CO RMD.E	CORVIDÆ	unicode
+352352	'I'liK	THE	
+352368	Pyi rliocoiax	Pyrrhocorax	
+352382	i;)acn/i(s	graculus	
+352406	cape	cage	
+352453	tliat	that	
+352486	Init	but	
+352553	distribntion	distribution	
+352950	Appenincs	Appenines	
+353117	liill	hill	
+353831	Lnndy	Lundy	
+353853	man}'	many	
+353940	possibl}'	possibly	
+354279	recentl}'	recently	
+354501	-with	with	
+354729	chiefl}'	chiefly	
+354819	colon}'	colony	
+355070	largely'	largely	
+355140	alternatel}-	alternately	
+355184	suddenl}'	suddenly	
+355372	Khef-o	Khéé'-o	unicode
+355380	klia'-o	khéé'-o	unicode
+355573	larvae	larvæ	unicode
+355588	probabl}'	probably	
+355665	wholl}'	wholly	
+355694	cixvice	crevice	
+355917	frecjuently	frequently	
+356382	generally'	generally	
+357043	Avhether	whether	
+357302	Crj'Stal	Crystal	
+357362	1S87	1887	numeric
+357510	l)een	been	
+357535	bnt	but	
+357578	mnst	must	
+357672	slating	stating	
+357977	f	(	punctuation
+357981	'^raculns	graculus	
+358000	flv	fly	
+358074	l)ut	but	
+358119	Oi\	On	
+358956	Familv	Family	
+358963	CORl'ID.E	CORVIDÆ	unicode
+358992	Aiiii/rut^d	Nucifraga	
+359004	Ciiryocatachs	caryocatactes	
+359019	LiXX	LINN	
+359049	tlironghont	throughout	
+359061	tlie	the	
+359066	Palrearetic	Palæarctic	unicode
+359098	Enrope	Europe	
+359109	vSontli	South	
+359117	Norwaj'	Norway	
+359214	nionntains	mountains	
+359228	Hungar_v	Hungary	
+359270	monntains	mountains	
+359382	occasionallv	occasionally	
+359859	Benendeu	Benenden	
+359878	January'	January	
+359997	.spotted	spotted	
+360698	decidedl}'	decidedly	
+361066	nie	me	
+361368	vSeebohm	Seebohm	
+361626	wpon	upon	
+362046	Jerdou	Jerdon	
+362110	fnlly	fully	
+362124	j-oung	young	
+362590	the}'	they	
+362682	the}'	they	
+362802	carefnl	careful	
+363012	.same	same	
+363634	lotli	10th	numeric
+363717	mouth	month	
+363835	obser\es	observes	
+363924	Jnne	June	
+364480	eartli	earth	
+364785	Corvuicc	Corvidœ	unicode
+364821	vSeebohm	Seebohm	
+364847	tameuess	tameness	
+365150	larvse	larvæ	unicode
+365174	laeetles	beetles	
+365330	tliat	that	
+365508	kya\	kray	
+366408	tliej'	they	
+366859	tlie	the	
+366911	ever}'	every	
+367212	mv	my	
+367220	io	to	
+367250	aviar^'	aviary	
+367392	;	:	punctuation
+367534	ni}'	my	
+367666	awaj^	away	
+367902	'ever}'	‘every	unicode
+368233	ni}-	my	
+368516	extremel}'	extremely	
+368810	crozved	crowed	
+369063	CORMD.E	CORVIDÆ	unicode
+369083	Ga})ulu$	Garrulus	
+369092	glainlatins	glandarius	
+369612	b}^	by	
+370470	w^eb	web	
+370919	chiefl}'	chiefly	
+371051	3'oung	young	
+371435	3'oung	young	
+371711	onl}'	only	
+372285	ma}'	may	
+372458	cliaik	chaik	
+372466	cliaik	chaik	
+372474	cliaik	chaik	
+372509	compau}^	company	
+372618	vcr}'	very	
+372630	arrt^li	arrgh	
+372694	tlic	the	
+373062	singularl}^	singularly	
+373773	waj'-	way	
+373799	undergrowtli	undergrowth	
+374295	ti)	to	
+374338	viciuit}'	vicinity	
+374400	curiosit}'	curiosity	
+374458	conies	comes	
+374521	j'et	yet	
+375200	b}'	by	
+375478	strongl}-	strongly	
+375838	t3'pical	typical	
+376047	cla3	clay	
+376051	--	-	punctuation
+377295	Solanuni	Solanum	
+377659	.shrew	shrew	
+378347	po.ssessed	possessed	
+379295	Familx	Family	
+379302	CORMIK^.	CORVIDÆ	
+379331	rus/ica	rustica	
+379340	Scor	SCOP	
+379396	unhappil_y	unhappily	
+380654	iip	up	
+381587	Imoyant	buoyant	
+381595	l)ul	but	
+381643	liroad	broad	
+381824	AltlKiugh	Although	
+381902	tliem	them	
+381907	.	,	punctuation
+382289	Alagpies	Magpies	
+382568	Naturallj-	Naturally	
+382674	gentl}'	gently	
+382764	commouly	commonly	
+383688	buoyautl}'	buoyantly	
+383909	usually'	usually	
+383994	IMa}-	May	
+384511	tlie	the	
+384582	vS	S	
+384644	Norwaj-	Norway	
+384798	'Manual	‘Manual	unicode
+385540	b}'	by	
+385654	ver^^	very	
+385660	bulk}'	bulky	
+385692	alwaj-s	always	
+386036	exceptiouall}'	exceptionally	
+386163	uniforml}^	uniformly	
+386644	larvae	larvæ	unicode
+386658	3-oung	young	
+386899	IMagpie	Magpie	
+387336	Bouhote	Bonhote	
+387388	Corvida	Corvidœ	unicode
+387469	^"	"	punctuation
+387533	beautifulh'	beautifully	
+387550	;	:	punctuation
+387727	famil}'	family	
+388023	Fami/v	Family	
+388030	CORJVD.-E	CORVIDÆ	
+388056	Corv/i.s	Corvus	
+388065	iiioncdula	monedula	
+388599	aud	and	
+388626	aud	and	
+389099	aud	and	
+389274	slightlj'	slightly	
+389584	.seen	seen	
+389601	flj'ing	flying	
+389673	clunk	chack	
+390222	onl}'	only	
+390785	oirr	our	
+391970	sonic	some	
+391983	chang-es	changes	
+392009	graccfnllv	gracefully	
+392020	ronnd	round	
+392061	wliich	which	
+392114	evolntions	evolutions	
+392283	gronnd	ground	
+392434	undoubtedl}-	undoubtedly	
+392532	varioush'	variously	
+392555	cae.	cae,	
+392560	caiv	caw	
+392566	(jiiick	quick	
+392581	c	&	punctuation
+392582	vc	c.	
+392618	licard	heard	
+392660	cliack	chack	
+392671	cli,u-k	chark	
+392791	au}'	any	
+392940	(jf	of	
+392946	chimne3%	chimney,	
+393368	t)r	or	
+393614	th(jse	those	
+393634	Rmnd	found	
+393661	mere!}'	merely	
+393712	fe\v	few	
+393821	]\Iiltou	Milton	
+394404	Alagpie	Magpie	
+394539	ininrious	injurious	
+394685	j^oiing	young	
+394725	earh'	early	
+394746	ill	in	
+394750	tlie	the	
+394755	3ear	year	
+394768	bcech	beech	
+394774	niast	mast	
+394824	carriou	carrion	
+394924	Mould	would	
+395001	nth	11th	
+395219	3'oung	young	
+395363	1113'	my	
+395420	onl}'	only	
+395595	gr(nind	ground	
+395664	properl}-	properly	
+395908	l3'ing	lying	
+396114	1^3ang	flying	
+396259	the3^	they	
+396306	m3'	my	
+396484	3'oung	young	
+396573	3'ear	year	
+396862	Ja3'	Jay	
+397251	Ijy	by	
+397339	equall3'	equally	
+397578	lier	her	
+397638	exceeding!}'	exceedingly	
+397651	Indicrous	ludicrous	
+397791	ninch	much	
+397858	man}'	many	
+397870	ni}'	my	
+397890	lohn	John	
+397957	Tliis	This	
+398364	neccssarj-	necessary	
+398969	eqiial	equal	
+399224	difficult}^	difficulty	
+399386	Familx	Family	
+399394	COR I ID. E	CORVIDÆ	unicode
+399420	Coivus	Corvus	
+399427	torax	corax	
+399453	tliroughoul	throughout	
+399477	tlie	the	
+399482	liuiil	limit	
+399538	soutli	south	
+399867	l)een	been	
+400307	ni}'	my	
+400688	Shetlauds	Shetlands	
+401308	3'et	yet	
+401343	pla}'	play	
+401496	Northamptoushire	Northamptonshire	
+401515	\'ol	Vol	
+401821	earl}-	early	
+401956	3-ear	year	
+401968	j'ear	year	
+402029	fortnieht	fortnight	
+402144	Februarj'	February	
+402195	j-oung	young	
+402257	Ma}'	May	
+402590	eftect	effect	
+403303	wheu	when	
+403523	tolerabl}'	tolerably	
+404407	mucli	much	
+404597	grej^	grey	
+404602		.	punctuation
+404941	cnick	cruck	
+404948	01/ck	cruck	
+404958	pntck	pruck	
+404994	ivliurk	whurk	
+405003	ivliiirk	whurk	
+405161	moUusca	mollusca	
+405180	batrachiaus	batrachians	
+405459	generall}'	generally	
+405475	Sunda_v	Sunday	
+405791	mj-	my	
+405800	iit	ut	
+405804	??ws	mos	
+405809	fuif	fuit	
+406110	e3'e	eye	
+407259	liis	his	
+407369	tlie	the	
+407429	niaj'	may	
+407472	bv	by	
+407485	llarting	Harting	
+407522	Oologj'	Oology	
+407547	1S64	1864	numeric
+407886	tlie	the	
+407938	l)ut	but	
+408009	l)y	by	
+408045	hatclied	hatched	
+408093	wliieli	which	
+408102	liowever	however	
+408276	Coniyus	Comyns	
+408288	Lyveudeu	Lyvenden	
+408514	full}'	fully	
+408992	b}'	by	
+409453	liis	his	
+410531	tlie	the	
+410685	Fa>,iilv	Family	
+410694	C0RJ7D.-E	CORVIDÆ	
+410725	Corviis	Corvus	
+410733	iOfoiic	corone	
+410824	Ijdng	lying	
+411751	Histor}'	History	
+412534	ajipears	appears	
+412784	h3-bridize	hybridize	
+412892	Gatke	Gätke	unicode
+413019	3'ears	years	
+413182	the}'	they	
+413512	gre}'	grey	
+413633	cuIchicKs	colchicus	
+413647	/oi-qna/us	torquatus	
+413666	vtrsicoloi-	versicolor	
+414010	Barbaiy	Barbary	
+414297	cpiite	quite	
+414416	b}'	by	
+414480	Tliat	That	
+414651	combiued	combined	
+414741	badl3	badly	
+414746	^	.	punctuation
+414798	saj^	say	
+414987	natixral	natural	
+415035	Carriou	Carrion	
+415571	tliree	three	
+417582	greedil}'	greedily	
+417619	larvae	larvæ	unicode
+417652	lie	he	
+417926	.standing	standing	
+418947	j'oung	young	
+419388	and	2nd	numeric
+419777	Familx	Family	
+419784	C0K]'I1K-E	CORVIDÆ	unicode
+419815	Collins	Corvus	
+419837	" 1 ^OUND	FOUND	
+419879	loug	long	
+419894	iu	in	
+419910	I '		
+420125	capcllauns	capellanus	
+420251	Sceboli??!	Seebohm	
+420592	countr}^	country	
+421892	iu	in	
+422066	pr\-ing	prying	
+422074	e\'es	eyes	
+422084	carnivorons	carnivorous	
+422121	liowever	however	
+422232	j-ears	years	
+422287	vSt	St	
+422329	Mora}'	Moray	
+422359	newlj'	newly	
+422366	boru	born	
+422462	)-oung	young	
+422509	vcr}'	very	
+422708	au}'	any	
+422847	iu	in	
+422963	an\'	any	
+423066	destro3-s	destroys	
+423187	osprc}'	osprey	
+423582	b}'	by	
+423586	da\-	day	
+423596	Gatke	Gätke	unicode
+423696	o'clock	o’clock	unicode
+423955	o'clock	o’clock	unicode
+423988	scarcel}^	scarcely,	
+424481	simultaneous!}'	simultaneously	
+424758	Gatke	Gätke	unicode
+424864	readers'	readers’	unicode
+425240	econom_v	economy	
+425260	Evcr\'where	Everywhere	
+425421	altliough	although	
+425471	snuiU	small	
+425654	Ital}'	Italy	
+425705	scarcel}'	scarcely	
+425766	b}-	by	
+426336	thej^	they	
+426394	da3's	days	
+426406	earl}^	early	
+426711	bj^	by	
+426742	an}-	any	
+426959	unsparingl}'	unsparingly	
+426973	3'ear	year	
+426992	b}'	by	
+427223	coroue	corone	
+427345	precisel}^	precisely	
+427448	coronc	corone	
+427628	saj-	say	
+427880	Mail}-	Many	
+427943	willi	with	
+427995	tliere	there	
+428200	Giitke	Gätke	unicode
+428286	sa3's	says	
+428573	Gre}'	Grey	
+428699	c\ten)ii}iatc	exterminate	
+428806	Fawilx	Family	
+428813	COR]'ID.E	CORVIDÆ	
+428836	Corviis	Corvus	
+428844	/nigi/i(;i(s	frugilegus	
+429435	prett}^	pretty	
+429777	l^are	bare	
+429888	Tlie	The	
+429951	Tlie	The	
+430109	.slender	slender	
+430127	tlie	the	
+430205	.slate	slate	
+430335	larvje	larvæ	unicode
+430923	preferabl}^	preferably	
+431229	larvae	larvæ	unicode
+431289	onl}'	only	
+431456	segetuin	segetum	
+432118	foiirteen	fourteen	
+432328	fi^om	from	
+432735	connucuced	commenced	
+432764	iu	in	
+432784	unusualh-	unusually	
+432972	the}-	they	
+433125	Februar}-	February	
+433156	m^'	my	
+433604	the}-	they	
+433651	t	†	punctuation
+434042	-blue	blue	
+434083	iu	in	
+434165	thicklj'	thickly	
+434590	the}-	they	
+434729	the}'	they	
+435173	accuracv	accuracy	
+435714	hungiy	hungry	
+435991	ever}'	every	
+436289	How-	How	
+436651	,	;	punctuation
+436667	catv	caw	
+436848	ar-cc-o	ar-ee-o	sound-simulation
+436929	larvae	larvæ	unicode
+437410	ni}-	my	
+437719	f	†	punctuation
+437728	ALAUDIDJ-:	ALAUDIDÆ	unicode
+437770	vSannders	Saunders	
+437784	phiccd	placed	
+437796	faniil_y	family	
+437847	certainly-	certainly	
+437952	Motaciilidcc	Motacillid	unicode
+437972	vSeel)ohm	Seebohm	unicode
+438040	b}'	by	
+438048	Sharpc	Sharpe	
+438305	vSeebohm	Seebohm	unicode
+438476	P'inchcs	Finches	
+438510	Jloiifijniioi/Ia	Montifringilla	
+438531	PUciropluvics	Plectrophanes	
+438590	Corydallar	Corydalla	
+438600		.	punctuation
+438600		"	punctuation
+438634	familj-	family	
+438699	probabl}'	probably	
+438720	tliis	this	
+438747	becanse	because	
+438798	Sannders	Saunders	
+438842	sa3-s	says	
+438867	majorit}-	majority	
+438937	Alaiiiiidic	Alaudid	unicode
+438957	Coii'ida	Corvidæ	unicode
+438965	''	"	punctuation
+439007	Passcrcs	Passeres	
+439049	i'eet	feet	
+439123	man}'	many	
+439209	the}-	they	
+439434	larvae	larvæ	unicode
+440171	Aluudida	Alaudidæ	unicode
+440204	fainih'	family	
+440326	j\Iala3-ana	Malayana	
+440355	Familx	Family	
+440363	ALAUDID.E	ALAUDIDÆ	
+440397	iDVCiisis	arvensis	
+440730	IMongolia	Mongolia	
+441110	\^excepting	(excepting	
+441285	caiitarclla	cantarella	
+441329	giilgiila	gulgula	
+441357	axlivox	cœlivox	unicode
+441369	ivai/crsi	wattersi	
+441380	arid	and	
+441755	sccuiid	second	
+441801	inider	under	
+441850	witli	with	
+441856	l:)hickish	blackish	
+441867	br(iwu	brown	
+441877	tlie	the	
+441951	j-ellowish	yellowish	
+442053	d(jes	does	
+442083	3-oung	young	
+442177	tawn}^	tawny	
+442402	primar}'	primary	
+442488	distinctl}-	distinctly	
+442627	se.\	sex	
+442821	b}-	by	
+443203	plantatious	plantations	
+443313	iudividual	individual	
+443525	ver3'	very	
+443743	obliquel}-	obliquely	
+443758	rapidl}'	rapidly	
+444107	'ivhcc	whee	sound-simulation
+444115	tvhee	whee	sound-simulation
+444122	w/icc	whee	sound-simulation
+444240	generall}-	generally	
+444309	b}'	by	
+444904	huffish	buffish	
+444989	smok}'	smoky	
+445211	whicli	which	
+445283	(pi	(pl	
+445441	sieuua	sienna	
+445632	]\Iay	May	
+445742	Jul)'	July	
+446052	niothcr	mother	
+446060	l)ird	bird	
+446329	soug	song	
+446735	larvae	larvæ	unicode
+447002	iisually	usually	
+447026	gd	9d	numeric
+447033	is	1s	numeric
+447577	runuer	runner	
+447722	ui}'	my	
+447736	cue	one	
+447740	]jy	by	
+448005	lec-it	tee-u	sound-simulation
+448013	tcc-u	tee-u	sound-simulation
+448020	tic-ii	tee-u	sound-simulation
+448090	wear}-	weary	
+448102	tlien	then	
+448204	the}'	they	
+448259	subsequentl}'	subsequently	
+448285	3'oung	young	
+448445	ordinary-	ordinary	
+448604	fl\ing	flying	
+448693	consecjuences	consequences	
+449046	1 88 7	1887	
+450208	mj^	my	
+450442	the}-	they	
+450718	canar}'	canary	
+451363	3'our	your	
+451448	i-eturned	returned	
+451832	Gatke	Gätke	unicode
+451838	saj'S	says	unicode
+452582	^	-	punctuation
+452584	ALA UDID. F	ALAUDIDÆ	unicode
+452614	Alaitdn	Alauda	
+452622	ar/iorca	arborea	
+452632	LlNN	LINN	
+452639	" T N	IN	
+452717	I Russia	Russia	
+453153	"^	"	punctuation
+453158	Iloivard	Howard	
+454148	iipper	upper	
+454631	distinctl}'	distinctly	
+454870	soniewhal	somewhat	
+454890	Sk3'	Sky	
+454917	deeidedly	decidedly	
+454965	Yonng	Young	
+454971	l:)irds	birds	
+454988	rnfons	rufous	
+455053	3'ellow	yellow	
+455247	vSharpe	Sharpe	
+455306	Lullula	Lullula	sound-simulation
+455357	IvU-lu	Lu-lu	sound-simulation
+455436	Irb}'	Irby	
+455494	sa3'S	says	
+455670	\&xy	very	
+455728	Chaparaks	Chaparales	
+455806	vSpanish	Spanish	
+455948	arc	are	
+455999	onl}'	only	
+456262	necessary'	necessary	
+456602	compactl}'	compactly	
+456636	Sk^^	Sky	
+457020	Secholiin	Seebohm	
+457072	huffish-	buffish-	
+457470	generall}'	generally	
+457498	nearly'	nearly	
+457627	cjuite	quite	
+457634	eaidy	early	
+457822	ver^'	very	
+457828	pnre	pure	
+457851	b}-	by	
+457855	man}^	many	
+457927	certaiul}'	certainly	
+458369	mj-	my	
+458406	Sittiugbourne	Sittingbourne	
+458651	promineut	prominent	
+458693	awaj^	away,	
+458775	aud	and	
+458961	certainlj?	certainly	
+459363	b}'	by	
+459801	aud	and	
+460523	uncann}'	uncanny	
+460875	that'	that	
+460965	Familx	Family	
+460972	ALA UDID. E	ALAUDIDÆ	unicode
+461005	Alanda	Alauda	
+461012	crisfafa	cristata	
+461062	Eiirope	Europe	
+461858	Tlie	The	
+461911	watli	with	
+462065	fcatliers	feathers	
+462102	hastard	bastard	
+462155	Ijrown	brown	
+462168	greyi-sh	greyish	
+462177	luargius	margins	
+462219	whicli	which	
+462296	sandv	sandy	
+462321	t)uter	outer	
+462455	principall}-	principally	
+462910	tlie	the	
+463072	Irb}-	Irby	
+463314	arc	are	
+463397	onl}'	only	
+463486	Curiiicit)	Carretera	
+463758	Sauderling	Sanderling	
+464135	eart	earth	
+464259	- —	-	unicode punctuation
+464539	diy	dry	
+464730	'95	˙95	unicode numeric
+464737	"bS	˙68	unicode numeric
+464760	wdiich	which	
+464868	sandj^	sandy	
+464946	rapidit}'	rapidity	
+465006	wlien	when	
+465142	generall}'	generally	
+465166	(U-	or	
+465170	iu	in	
+465183	fauiily	family	
+465308	duriug	during	
+465444	larvae	larvæ	unicode
+465625	sa3's	says	
+465639	xA-lgeria	Algeria	
+465679	iuto	into	
+465890	3-ellowish	yellowish	
+465912	uuiformly	uniformly	
+466214	iu	in	
+466236	iu	in	
+466296	plaius	plains	
+466415	guli^iila	gulgula	
+466424		,	punctuation
+466445	flue	fine	
+466507	iu	in	
+467490	aud	and	
+467560	considerabl}'	considerably	
+467641	tlie	the	
+467656	PyauviotKs	Pycnonotus	
+467667	Icucotis	leucotis	
+467701	wliich	which	
+467822	b}^	by	
+467826	Jerdou	Jerdon	
+468160	the}'	they	
+468260	Pere	Pére	unicode
+468279	187 1	1871	
+468581		:	punctuation
+468722	larvae	larvæ	unicode
+468928	Familx	Family	
+468935	ALA UDID^	ALAUDIDÆ	
+468956		-	punctuation
+468957	AVinged	WINGED	
+468972	ilTclanocorypha	Melanocorypha	
+468988	sidirica	sibirica	
+468998	Gmp;l	GMEL	
+469383	Eugland	England	
+469637	Faunlx	Family	
+469644	ALAUDID.E	ALAUDIDÆ	
+469673	Mcla)iOLoyypha	Melanocorypha	
+469688	ycltontemis	yeltoniensis	
+470444	ALAl'DID.-Ji	ALAUDIDÆ	unicode
+470481	Ciila)idixlla	Calandrella	
+470495	bnuhydaityla	brachydactyla	
+470594	geuus	genus	
+470600	Calandrclla	Calandrella	
+470795	Alaiida	Alauda	
+470992	xAbyssinia	Abyssinia	
+471213	si.x	six	
+471627	sand3'	sandy	
+471634	browu	brown	
+471787	huffish	buffish	
+471997	tlie	the	
+472045	j^ellowish	yellowish	
+472405	side.	side	
+472655	Cahuidra	Calandra	
+472678	falhnv	fallow	
+472685	i^round	ground	
+472735	au}'	any	
+472740	sliglit	slight	
+472829	l)ird	bird	
+472898	liird	bird	
+472994	tameuess	tameness	
+473029	difficult}'	difficulty	
+473083	withoiit	without	
+473297	jerk}'	jerky	
+475499	.	,	punctuation
+475553	nnite	unite	
+475588	man}'	many	
+475594	tliousand	thousand	
+475615	qnite	quite	
+475682	flj'ing	flying	
+475697	nnnibers	numbers	
+475738	conntr}-	country	
+475869	groiind	ground	
+475959	wonnded	wounded	
+476069	alwa3'S	always	
+476194	the}'	they	
+476606	Gatke	Gätke	unicode
+476795	ver}-	very	
+476801	solitar}'	solitary	
+477247	momeutaril}-	momentarily	
+477342	ver\'	very	
+477365	extraordinarilj''	extraordinarily	
+477628	Sk}-	Sky	
+477857	Familx	Family	
+477864	A LA I DID. E	ALAUDIDÆ	
+477898	Olocurvs	Otocorys	
+477907	alpcstris	alpestris	
+477918	LiNX	LINN	
+477957	bej'ond	beyond	
+480080	vShore	Shore	
+480132	liills	hills	
+480139	nf	of	
+480226	entirely'	entirely	
+480293	Inish	bush	
+480412	melod3	melody	
+480418	^	.	punctuation
+480682	.Uauda	Alauda	
+480689	arz'i-fis/s	arvensis	
+480709	3'OU	you	
+481453	tlieir	their	
+482081	speciniens	specimens	
+482217	crop	crops	
+482260	Polygonacea	Polygonaceœ	unicode
+482406	larvae	larvæ	unicode
+482418	pupae	pupæ	unicode
+482640	frequentl}^	frequently	
+482688	Gatke	Gätke	unicode
+483025	captivit}'	captivity	
+483723	j-ear	year	
+484202	Canar3^	Canary	
+484267	Canar}'	Canary	
+484329	iu	in	
+484446	ever}'	every	
+484805	.	,	punctuation
+486147	alreadj'	already	
+486357	inclttde	include	
+486843	remedv	remedy	
+486854	deficienc}'	deficiency	
+486991	TURDID^	TURDIDÆ	unicode
+487001	Subfamih	Subfamily	
+487011	TURDINyF	TURDINÆ	
+487041	Turdiis	Turdus	
+487049	dubiiis	dubius	
+487067	NE	ONE	
+487110	Gunthorpe.	Gunthorpe,	
+487198	Stornowa}-	Stornoway	
+487352	i8th	18th	numeric
+487508	Ti 'RDID. E	TURDIDÆ	unicode
+487522	Subfaniily	Subfamily	
+487534	TL 'RUIN. E	TURDINÆ	
+487584	shipazina	stapazina	
+487750	3'ear	year	
+487971	occidoitalis	occidentalis	
+488025	daerti	deserti	
+488112	TURD ID. E	TURDIDÆ	unicode
+488136	TURDIN.E	TURDINÆ	unicode
+488190	Paix	PALL	
+488197		A	
+488293	vShetlands	Shetlands	
+488309	Maj'	May	
+488589	]\Iarch	March	
+488808	TURDID.^	TURDIDÆ	unicode
+488830	TURDIN/E	TURDINÆ	unicode
+488851	Spottf:d	SPOTTED	
+488873	Cxa)icciila	Cyanecula	
+488885	u'i>l/l	wolfi	
+489026	ist	1st	numeric
+489256	TURDID^	TURDIDÆ	unicode
+489277	TURDIN^	TURDINÆ	unicode
+489321	fliilomcla	philomela	
+489644	1 6th	16th	numeric
+489712	vSeptember	September	
+489894	24t]i	24th	
+490002	3'oung	young	
+490267	1 5th	15th	numeric
+490303	Li^dlow	Ludlow	
+490416	Fawilx	Family	
+490424	TURD ID. -E	TURDIDÆ	
+490438	5«//rtw//r	Subfamily	
+490450	5 J Z I ILY^	SYLVIINÆ	
+490489	Svlviii	Sylvia	
+490497	viclanoccpliaUx	melanocephala	
+490981	ist	1st	numeric
+490998	^	-	punctuation
+491000	Ti 7^ DILL -E	TURDIDÆ	unicode
+491016	SuhJaniiiy	Subfamily	
+491027	SYL J 7IA\ E	SYLVIINÆ	
+491042	PallAvS	PALLAS	
+491069	Phy/Iosiopus	Phylloscopus	
+491082	f^ivrcgit/iis	proregulus	
+491098		A	
+491233	i5tli	15th	numeric
+491274	3'ear	year	
+491308	Tnlloch	Tulloch	
+491335	Ma}^	May	
+491386	TURDID.F	TURDIDÆ	unicode
+491397	Subjaimly	Subfamily	
+491408	SYL I IIN.E	SYLVIINÆ	
+491448	Phy//oscop!is	Phylloscopus	
+491479	N	AN	
+491507	lighthonse	lighthouse	
+491552	TURDIL)^	TURDIDÆ	unicode
+491574	SYL I 'IIN.E	SYLVIINÆ	unicode
+491620	Phylloscopiis	Phylloscopus	
+491634	viridaiius	viridanus	
+491646	Blvth	BLYTH	
+491758	Siitherlandshire	Sutherlandshire	
+491818	couiinou	common	
+491847	fouud	found	
+491890	Shetlauds	Shetlands	
+491986	Fnmtlx	Family	
+491995	TL ^RDID. E	TURDIDÆ	
+492009	Sii/^/,u>n/\	Subfamily	
+492022	S J Z J VLV. E	SYLVIINÆ	
+492060	Aidon	Aedon	
+492066	(^alcnimAs	galactodes	
+492160	TURDID.E	TURDIDÆ	unicode
+492171	Siih/auiily	Subfamily	
+492182		-	punctuation
+492182	SYL I IIN^E	SYLVIINÆ	
+492222	Acdoii	Aedon	
+492229	fnmiliaris	familiaris	
+492304	TURD ID ^	TURDIDÆ	unicode
+492327	SYL I IIN^	SYLVIINÆ	unicode
+492374	sckwarzi	schwarzi	
+492481	Haigli	Haigh	
+492496	--	-	punctuation
+492499	Tl 'KDID. E	TURDIDÆ	unicode
+492513	Su/ifaniuy	Subfamily	
+492524	SVL I 'ILWF	SYLVIINÆ	
+492538	Cetti'vS	CETTI’S	unicode
+492547	Warrlkr	WARBLER	
+492557	Cetfin	Cettia	
+492564	ccttii	cettii	
+492617	Ma}'	May	
+493057	TURDID^	TURDIDÆ	unicode
+493078	SYL VIIN^	SYLVIINÆ	unicode
+493123	polyglolla	polyglotta	
+493236	loth	10th	numeric
+493288	hoi:se	house	
+493737	Au	An	
+493863	Christclinrch	Christchurch	
+493975	Charterhonse	Charterhouse	
+494473	Januar}'	January	
+494665	Scill}'	Scilly	
+495100	MO TA CILLID. -E	MOTACILLIDÆ	unicode
+495145	j] lot ac ilia	Motacilla	
+495160	60/ra/is	borealis	
+495256	1 90 1	1901	numeric
+495313	.shot	shot	
+495485	MO TA CIL L ID^	MOTACILLIDÆ	unicode
+495540	vulauoccphala	melanocephala	
+495599	Ma}-	May	
+495604	ijtli	13th	
+495641	flaz'a	flava	
+495664	followiug	following	
+495676	Fa mi ly	Family	
+495686	MO TA CILL ID. F	MOTACILLIDÆ	
+495705	SykEvS'	SYKES’	unicode
+495801	2otli	20th	numeric
+495808	1898	I898	numeric ERROR
+495823	MO TA CILLlDzE	MOTACILLIDÆ	unicode
+495844	AvShy-Headed	ASHY‐HEADED	unicode
+495893	Sa\'I	SAVI	
+496106	/lava	flava	
+496153	nowadaj'S	nowadays	
+497115	Scill3%	Scilly,	
