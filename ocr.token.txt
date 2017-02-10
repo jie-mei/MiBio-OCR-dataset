@@ -3164,7 +3164,7 @@ general
 is
 yet
 not
-unfreqnently
+unfre-↵qnently
 caught
 in
 the
@@ -14091,7 +14091,7 @@ I
 find
 that
 H^michclidon
-fuligiiiosus
+fuli-↵giiiosus
 ,
 which
 Jerdon
@@ -14443,7 +14443,7 @@ flocks
 and
 }ilr
 .
-Froliawk
+Fro-↵liawk
 ,
 in
 September
@@ -18139,7 +18139,7 @@ irresistible
 attraction
 to
 the
-birds'-nester
+birds'-↵nester
 ,
 are
 often
@@ -27200,7 +27200,7 @@ love
 for
 buds
 ,
-particularl}'
+par-↵ticularl}'
 of
 fruit-trees
 ,
@@ -32799,7 +32799,7 @@ found
 in
 orchards
 ,
-preferabl}'
+prefer-↵abl}'
 on
 the
 lichen-covered
@@ -33310,7 +33310,7 @@ general
 favourite
 ;
 some
-avicnlturists
+avicnl-↵turists
 admiring
 it
 (
@@ -59494,7 +59494,7 @@ time
 not
 far
 from
-Canterbur}'
+Canter-↵bur}'
 ,
 but
 I
@@ -75706,7 +75706,8 @@ Mr.
 Saunders
 in
 his
-'Manual
+'
+Manual
 of
 British
 Birds
@@ -80553,7 +80554,8 @@ turning
 him
 in
 with
-'Grip
+'
+Grip
 '
 the
 Raven
