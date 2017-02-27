@@ -922,8 +922,9 @@
 167465	cliiwliit	chiwhit	
 167476	c/iiivit	chiwit	sound-simulation
 167486	clira'it	chiwit	sound-simulation
-167497	whetc, ivhctc	wheec	sound-simulation
-167512	wlitcc	wheec, wheec	sound-simulation
+167497	whetc	wheec	sound-simulation
+167504	ivhctc	wheec	sound-simulation
+167512	wlitcc	wheec	sound-simulation
 167557	b}^	by	
 167631	bod}-	body	
 167704	beai"s	bears	
