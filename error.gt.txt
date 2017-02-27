@@ -528,7 +528,6 @@
 106095	whj-	why	
 106136	unremuuerative	unremunerative	
 106297	aud	and	
-106582	Family	Family	
 106588	^	-	punctuation
 106590	FRINGILLID.'E	FRINGILLIDÆ	bird-type
 106617	COCCOTIIRA USTIN/E	COCCOTHRAUSTINÆ	unicode bird-type
@@ -1233,7 +1232,6 @@
 216968	ma}-	may	
 217671	repl}'-	reply	
 217844	j-ou	you	
-217999	journal	journal	
 218006		!	punctuation
 218127	mouth	month	
 218420	c/iow	chow	sound-simulation
@@ -1249,7 +1247,6 @@
 218916	rarel}^	rarely	
 218991	haud	hand	
 219043	sougs	songs	
-219140	Canary	Canary	unicode
 219412	Canar}'	Canary	
 219500	larvae	larvæ	unicode
 219588	Loudon	London	
@@ -1468,7 +1465,6 @@
 253654	probabl}^	probably	
 253759	Februar}'	February	
 253923	stufted	stuffed	
-253952	Steele	Steele	
 254327	mj-	my	
 254430	uot	not	
 254444		.	punctuation
@@ -2598,7 +2594,6 @@
 454988	rnfons	rufous	
 455053	3'ellow	yellow	
 455247	vSharpe	Sharpe	
-455306	Lullula	Lullula	sound-simulation
 455357	IvU-lu	Lu-lu	sound-simulation
 455436	Irb}'	Irby	
 455494	sa3'S	says	
