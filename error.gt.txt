@@ -470,8 +470,11 @@
 95174	eatiug	eating		
 95196	Saimders	Saunders		
 95205	011I3'	only		
-95243	fFrin^HluurJ	(Fringillinœ)	(Fringillinae)	unicode
-95269	(E>i!beyiziHaJ	(Emberizinœ)	(Emberizinae)	unicode
+95243	f	(		
+95244	Frin^Hluur	Fringillinœ	Fringillinae	unicode
+95254	J	)		
+95270	E>i!beyiziHa	Emberizinœ	Emberizinae	unicode
+95282	J	)		unicode
 95394	Coccothraitstiiuc	Coccothraustinœ	Coccothraustinae	unicode
 95608	aud	and		
 95793	F) hio'iUidcr	Fringillidœ	Fringillidae	unicode
