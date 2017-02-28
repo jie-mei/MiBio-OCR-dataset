@@ -1383,7 +1383,7 @@
 241244	Canary/	Canary		
 241564	Fringillida:	Fringillidœ	Fringillidae	unicode
 241810	Emberizince	Emberizinœ	Emberizinae	unicode
-241830		FR I X(UL L ID. ¥..	FRINGILLIDÆ		unicode
+241830	FR I X(UL L ID. ¥..	FRINGILLIDÆ	FRINGILLIDAE	unicode
 241850		.		punctuation
 241852	Suh/amily	subfamily		
 241863	^FRIXGIL L IN^E	FRINGILLINÆ	FRINGILLINAE	unicode
