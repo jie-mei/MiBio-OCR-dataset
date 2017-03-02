@@ -1,11 +1,11 @@
 61	ORIOLID^	ORIOLIDÆ	ORIOLIDAE	unicode bird-type
 77	famil}^	family		
 144	whicli	which		
-401	IdcridcE	Icteridœ	Icteridae	unicode bird-type
-687	Corvince	Corvinœ	Corvinae	unicode bird-type
+401	IdcridcE	Icteridæ	Icteridae	unicode bird-type
+687	Corvince	Corvinæ	Corvinae	unicode bird-type
 1143	iu	in		
 1567	lilacine-greyisli	lilacine-greyish		bird-type
-1786	Corvidcr	Corvidœ	Corvidae	unicode bird-type
+1786	Corvidcr	Corvidæ	Corvidae	unicode bird-type
 1951	Familx	Family		
 1959	ORIOL ID^E	ORIOLIDÆ	ORIOLIDAE	unicode
 2000	ga/bula	galbula		
@@ -22,10 +22,10 @@
 6429	//	li		
 6433	vec-o	vee-o		sound-simulation
 6438	'	.		punctuation
-6439	''	”		punctuation
+6439	''	"		punctuation
 6457	IMacphersou	Macpherson		person-name
 6769	eas}'	easy		
-6994	leaves."	leaves.”		unicode
+6994	leaves."	leaves."		unicode
 7035	largel}'	largely		
 7065	larvae	larvæ		unicode bird-type
 7195	b}^	by		
@@ -40,13 +40,13 @@
 8884	LANIID^	LANIIDÆ	LANIIDAE	unicode bird-type
 9229	defiued	defined		
 9425	defiued	defined		
-9576	Laniidcv	Laniidœ	Laniidae	unicode bird-type
+9576	Laniidcv	Laniidæ	Laniidae	unicode bird-type
 9826	an}'	any		
-10112	Laniida:	Laniidœ	Laniidae	unicode bird-type
+10112	Laniida:	Laniidæ	Laniidae	unicode bird-type
 10584	uearlj^	nearly		
 10624	Seebohni	Seebohm		person-name
 10664	tlie	the		
-10669	Corvi)ia	Corvinœ	Corvinae	unicode bird-type
+10669	Corvi)ia	Corvinæ	Corvinae	unicode bird-type
 10988	liis	his		
 10993	}ilanual	Manual		
 11054	Flj-catchers	Flycatchers		bird-type
@@ -187,7 +187,6 @@
 37725	LlNN	LINN		bird-type
 38116	Turke}'	Turkey		
 38663	1867-S	1867-8		numeric
-39234	and	aud		ERROR
 39652	tij^s	tips		
 39690	\^-like	V-like		
 40056	iuuer	inner		
@@ -206,7 +205,7 @@
 44154	certaiul}-	certainly		
 44263	MUSCICAPID^	MUSCICAPIDÆ	MUSCICAPIDAE	unicode
 44351	Subfamil}'	Subfamily		
-44394	Turdtna:	Turdinœ	Turdinae	unicode bird-type
+44394	Turdtna:	Turdinæ	Turdinae	unicode bird-type
 44861	e3'^es	eyes		
 44905	mostl}''	mostly		
 45814	vSeebohm	Seebohm		
@@ -253,14 +252,13 @@
 53909	successfull3'	successfully		
 53953	3'ears	years		
 53968	3'oung	young		
-53983	Fl3	Fly		
-53986	-			ERROR
+53983	Fl3-catcher	Flycatcher		
 54038	lan:p	lamp		
 54049	temporaril3^	temporarily		
 54181	the3'	they		
 54287	b3'	by		
 54373	aviar3'	aviary		
-54615	Hirundinidce	Hirundinidœ	Hirundinidae	unicode
+54615	Hirundinidce	Hirundinidæ	Hirundinidae	unicode
 54760	ML 'SCICAPID.F	MUSCICAPIDÆ	MUSCICAPIDAE	unicode
 54799	Miiscicapa	Muscicapa		
 54810	africapil/a	atricapilla		
@@ -328,7 +326,7 @@
 69983	b}-	by		
 70538	H^michclidon	Hemichelidon		
 70551	fuligiiiosus	fuliginosus		line-break
-71031	Hirujidinida:	Hirundinidœ	Hirundinidae	unicode
+71031	Hirujidinida:	Hirundinidæ	Hirundinidae	unicode
 71713	FamUy	Family		
 71719	IIIRUXDINID. E	HIRUNDINIDÆ	HIRUNDINIDAE	bird-type
 71750	Ilinoido	Hirundo		bird-type
@@ -402,7 +400,7 @@
 83435	j-olk	yolk		
 83753	da}'	day		
 84111	IMartins	Martins		
-84168	Hinindinida:	Hirundinidœ	Hirundinidae	unicode
+84168	Hinindinida:	Hirundinidæ	Hirundinidae	unicode
 85198	x^lthough	Although		
 85241	w^ould	would		
 85591	tlie	the		
@@ -471,24 +469,24 @@
 95196	Saimders	Saunders		
 95205	011I3'	only		
 95243	f	(		
-95244	Frin^Hluur	Fringillinœ	Fringillinae	unicode
+95244	Frin^Hluur	Fringillinæ	Fringillinae	unicode
 95254	J	)		
-95270	E>i!beyiziHa	Emberizinœ	Emberizinae	unicode
+95270	E>i!beyiziHa	Emberizinæ	Emberizinae	unicode
 95282	J	)		unicode
-95394	Coccothraitstiiuc	Coccothraustinœ	Coccothraustinae	unicode
+95394	Coccothraitstiiuc	Coccothraustinæ	Coccothraustinae	unicode
 95608	aud	and		
-95793	F) hio'iUidcr	Fringillidœ	Fringillidae	unicode
+95793	F) hio'iUidcr	Fringillidæ	Fringillidae	unicode
 95927	aud	and		
 95996	aud	and		
 96125	partially-	partially		
-96363	CoccothraiisibuT	Coccothraustinœ	Coccothraustinae	unicode
-96647	Fringillincc	Fringillinœ	Fringillinae	unicode
+96363	CoccothraiisibuT	Coccothraustinæ	Coccothraustinae	unicode
+96647	Fringillincc	Fringillinæ	Fringillinae	unicode
 96826	ver}'	very		
-96987	E»ib€risi)ur	Emberizinœ	Emberizinae	unicode
+96987	E»ib€risi)ur	Emberizinæ	Emberizinae	unicode
 97040	ma}'	may		
 97173	complete!}'	completely		
 97434	the}'	they		
-97555	Fringillida	Fringillidœ	Fringillidae	unicode
+97555	Fringillida	Fringillidæ	Fringillidae	unicode
 97670	FRIKGILLID.'E	FRINGILLIDÆ	FRINGILLIDAE	unicode bird-type
 97697	COCCOTHRAUSTIN/E	COCCOTHRAUSTINÆ	COCCOTHRAUSTINAE	unicode bird-type
 97733	JLigiiriniis	Ligurinus		
@@ -506,7 +504,7 @@
 101479	fift}-	fifty		
 101692	occasionally'	occasionally		
 101920	i	1		
-102691	- —	-		punctuation
+102691	- -	-		punctuation
 103034	iu	in		
 103312	huffish	buffish		
 103361	chief!}'	chiefly		
@@ -520,7 +518,7 @@
 104073	iu	in		
 104112	frec|ueut	frequent		
 104715	zshivecr	zshweer		
-104957	manoeuvre	manœuvre	manaeuvre	unicode
+104957	manoeuvre	manæuvre	manaeuvre	unicode
 105347	^^^	egg		
 105381	batched	hatched		
 105596	iu	in		
@@ -584,7 +582,7 @@
 114888	au}'	any		
 114937	I^ri)ioi/ln	Fringilla		
 114968	Piisser	Passer		
-115036	Emberizina:	Emberizinœ	Emberizinae	unicode
+115036	Emberizina:	Emberizinæ	Emberizinae	unicode
 115064	Avicultiirist	Aviculturist		
 115178	FRINGILLID.^	FRINGILLIDÆ	FRINGILLIDAE	unicode bird-type
 115204	FRINGILLIN.E	FRINGILLINÆ	FRINGILLINAE	unicode bird-type
@@ -695,7 +693,7 @@
 131009	FRINGILLID.^	FRINGILLIDÆ	FRINGILLIDAE	unicode
 131035	FRINGILLIN.^	FRINGILLINÆ	FRINGILLINAE	unicode
 131066	Py})hula	Pyrrhula		
-131075	curopaa	europœa	europaea	unicode
+131075	curopaa	europæa	europaea	unicode
 131097	SHARPB	SHARPE		
 131114	distributiou	distribution		
 131357	b}-	by		
@@ -1007,7 +1005,7 @@
 180604	Gatke	Gätke		unicode
 180806	4tli	4th		
 180815	5tli	5th		
-180859	"innumerable	“innumerable		unicode
+180859	"innumerable	"innumerable		unicode
 180938	co\-ered	covered		
 181203	iu	in		
 181239	gdutted	glutted		
@@ -1028,9 +1026,9 @@
 181788	meaus	means		
 182056	abundantl}'	abundantly		
 182075	j-ear	year		
-182347	huffish	buﬃsh		unicode
+182347	huffish	buffish		unicode
 182389	iu	in		
-182614	huffish	buﬃsh		unicode
+182614	huffish	buffish		unicode
 182657	:it	at		
 182697	bUickish	blackish		
 182706	bruw n	brown		
@@ -1190,7 +1188,7 @@
 210058	FRINGILLINAi	FRINGILLINÆ	FRINGILLINAE	unicode
 210100	domcsticus	domesticus		
 210225	Italj^	Italy		
-210307	italice	italiœ	italiae	unicode
+210307	italice	italiæ	italiae	unicode
 210390	Ce^don	Ceylon		
 210433	lu	In		
 210469	tlie	the		
@@ -1309,10 +1307,10 @@
 229606	SnbJainiiy	Subfamily		
 229617	FRIXGILLIN^	FRINGILLINÆ	FRINGILLINAE	unicode
 229647	Fiingilla	Fringilla		
-229657	ccclcbs	cœlebs	caelebs	unicode
+229657	ccclcbs	cælebs	caelebs	unicode
 229666	LiXN	LINN		
-229705	FringiUidcc	Fringillidœ	Fringillidae	unicode
-229865	Fringi/Iincr	Fringillinœ	Fringillinae	unicode
+229705	FringiUidcc	Fringillidæ	Fringillidae	unicode
+229865	Fringi/Iincr	Fringillinæ	Fringillinae	unicode
 230116	Fringill	Fringilla		
 230734	aud	and		
 230982	tlie	the		
@@ -1324,7 +1322,7 @@
 232521	aud	and		
 232774	aud	and		
 233151	immediatel}'	immediately		
-233175	Einbcrizina	Emberizinœ	Emberizinae	unicode
+233175	Einbcrizina	Emberizinæ	Emberizinae	unicode
 233494	heu	hen		
 233513	snbdued	subdued		
 233823	earl}'	early		
@@ -1365,7 +1363,7 @@
 237572	Canarj-	Canary		
 237754	b}-	by		
 237911	t\pe	type		
-237983	spiders'	spiders’		unicode
+237983	spiders'	spiders'		unicode
 238068	la3'er	layer		
 238215	hardl}-	hardly		
 238839	I'eddish	reddish		
@@ -1381,10 +1379,9 @@
 240045	ChafSnch	Chaffinch		
 241040	anj^one	anyone		
 241244	Canary/	Canary		
-241564	Fringillida:	Fringillidœ	Fringillidae	unicode
-241810	Emberizince	Emberizinœ	Emberizinae	unicode
-241830	FR I X(UL L ID. ¥..	FRINGILLIDÆ	FRINGILLIDAE	unicode
-241850		.		punctuation
+241564	Fringillida:	Fringillidæ	Fringillidae	unicode
+241810	Emberizince	Emberizinæ	Emberizinae	unicode
+241831	FR I X(UL L ID. ¥.	FRINGILLIDÆ	FRINGILLIDAE	unicode
 241852	Suh/amily	subfamily		
 241863	^FRIXGIL L IN^E	FRINGILLINÆ	FRINGILLINAE	unicode
 241885	Bramblixg	BRAMBLING		
@@ -1504,11 +1501,11 @@
 263052	frequeutl}'	frequently		
 263105	ungainlj'	ungainly		
 263136	apolog}^	apology		
-263669	'' kis	“tees		unicode sound-simulation
+263669	'' kis	"tees		unicode sound-simulation
 263677	tcis	tees		sound-simulation
 263683	/ccs	tees		sound-simulation
-263689	tis-is-is-s-s-r-r-rc,'"	tis‐is-is-s-s-r-r-re,”		unicode sound-simulation
-263732	''■tk-tic-tccsc,''	“tic-tic-teese,”		unicode sound-simulation
+263689	tis-is-is-s-s-r-r-rc,'"	tis-is-is-s-s-r-r-re,"		unicode sound-simulation
+263732	''■tk-tic-tccsc,''	"tic-tic-teese,"		unicode sound-simulation
 264006	kaak^	kaak		
 264011		."		punctuation
 264012	Tlie	The		
@@ -1563,7 +1560,7 @@
 274024	sieuua	sienna		
 274162	HI	III		
 275783	frequentl}'	frequently		
-275874	ffcyrclup	ﬀerrelup		unicode
+275874	ffcyrclup	fferrelup		unicode
 276069	3'ou	you		
 276582	.close	close		
 277061	larvae	larvæ		unicode
@@ -1573,7 +1570,7 @@
 278233	aviar}-	aviary		
 278267	the}'	they		
 278300	.irbor	Arbor		
-278307	vita	vitœ	vitae	
+278307	vita	vitæ	vitae	
 279409	FRlXi UL L ID. F	FRINGILLIDÆ	FRINGILLIDAE	unicode
 279428	Suhjaiiiily	Subfamily		
 279440	FHIBFRIZIA >F	EMBERIZINÆ	EMBERIZINAE	
@@ -1635,7 +1632,7 @@
 286895	chins	cirlus		
 286948	b}'	by		
 287118	Einboiza	Emberiza		
-287127	ichccnicluis	schœniclus	schaeniclus	unicode
+287127	ichccnicluis	schæniclus	schaeniclus	unicode
 287652	greed}-	greedy		
 288151	suddenlj-	suddenly		
 288193	FRINGILLID. E	FRINGILLIDÆ	FRINGILLIDAE	unicode
@@ -1689,7 +1686,7 @@
 294479	the}'	they		
 294849	iu	in		
 295259	show-	show		
-295469	Russ'	Russ’		unicode
+295469	Russ'	Russ'		unicode
 296093	SiVcrora	Sitagra		
 296102	f	(		punctuation
 296290	Liolhrix	Liothrix		
@@ -1737,7 +1734,7 @@
 298853	FRINGILLID.E	FRINGILLIDÆ	FRINGILLIDAE	unicode
 298879	EMBEREZIN.'E	EMBERIZINÆ	EMBERIZINAE	unicode
 298913	Eiiibcriza	Emberiza		
-298924	sclianicliis	schœniclus	schaeniclus	unicode
+298924	sclianicliis	schæniclus	schaeniclus	unicode
 299410	x\frica	Africa		
 299475	iu	in		
 299497	uud	and		
@@ -1921,9 +1918,9 @@
 329022	IMy	My		
 329153	iu	in		
 329229	vSTURNID^	STURNIDÆ	STURNIDAE	unicode
-329322	hicridcr	Icteridœ	Icteridae	unicode
+329322	hicridcr	Icteridæ	Icteridae	unicode
 329381	ou	on		
-329424	Corvida	Corvidœ	Corvidae	unicode
+329424	Corvida	Corvidæ	Corvidae	unicode
 329596	aud	and		
 329605	loug	long		
 329662	uot	not		
@@ -1936,7 +1933,7 @@
 330399	iu	in		
 330416	aud	and		
 330552	iu	in		
-330620	Ictcridcc	Icteridœ	Icteridae	unicode
+330620	Ictcridcc	Icteridæ	Icteridae	unicode
 330680	j^ears	years		
 330702	iu	in		
 330779	Ictcyus	Icterus		
@@ -2011,13 +2008,13 @@
 342608	iu	in		
 343593	usualh-	usually		
 343800	Andropogoii	Andropogon		
-343812	soy ah us y	sorghus)”		unicode
+343812	soy ah us y	sorghus)"		unicode
 345177	ilocks	flocks		
 345265	tliey	they		
 345711	ver}-	very		
 346130	Kriiper	Krüper		unicode
 346504	c^uarries	quarries		
-347574	Turdida	Turdidœ	Turdidae	unicode
+347574	Turdida	Turdidæ	Turdidae	unicode
 347589	lyilford	Lilford		
 348022	roscns	roseus		
 348622	livel}^	lively		
@@ -2035,7 +2032,7 @@
 351067	Coi'viis	Corvus		
 351428	immusical	unmusical		
 351450	bulk}'	bulky		
-351789	Corvida.	Corvidœ	Corvidae	unicode
+351789	Corvida.	Corvidæ	Corvidae	unicode
 352341	CO RMD.E	CORVIDÆ	CORVIDAE	unicode
 352352	'I'liK	THE		
 352368	Pyi rliocoiax	Pyrrhocorax		
@@ -2110,7 +2107,7 @@
 363835	obser\es	observes		
 363924	Jnne	June		
 364480	eartli	earth		
-364785	Corvuicc	Corvidœ	Corvidae	unicode
+364785	Corvuicc	Corvidæ	Corvidae	unicode
 364821	vSeebohm	Seebohm		
 364847	tameuess	tameness		
 365150	larvse	larvæ		unicode
@@ -2126,7 +2123,7 @@
 367392	;	:		punctuation
 367534	ni}'	my		
 367666	awaj^	away		
-367902	'ever}'	‘every		unicode
+367902	'ever}'	'every		unicode
 368233	ni}-	my		
 368516	extremel}'	extremely		
 368810	crozved	crowed		
@@ -2185,7 +2182,7 @@
 384511	tlie	the		
 384582	vS	S		
 384644	Norwaj-	Norway		
-384798	'Manual	‘Manual		unicode
+384798	'Manual	'Manual		unicode
 385540	b}'	by		
 385654	ver^^	very		
 385660	bulk}'	bulky		
@@ -2196,7 +2193,7 @@
 386658	3-oung	young		
 386899	IMagpie	Magpie		
 387336	Bouhote	Bonhote		
-387388	Corvida	Corvidœ	Corvidae	unicode
+387388	Corvida	Corvidæ	Corvidae	unicode
 387469	^"	"		punctuation
 387533	beautifulh'	beautifully		
 387550	;	:		punctuation
@@ -2400,12 +2397,12 @@
 423582	b}'	by		
 423586	da\-	day		
 423596	Gatke	Gätke		unicode
-423696	o'clock	o’clock		unicode
-423955	o'clock	o’clock		unicode
+423696	o'clock	o'clock		unicode
+423955	o'clock	o'clock		unicode
 423988	scarcel}^	scarcely,		
 424481	simultaneous!}'	simultaneously		
 424758	Gatke	Gätke		unicode
-424864	readers'	readers’		unicode
+424864	readers'	readers'		unicode
 425240	econom_v	economy		
 425260	Evcr\'where	Everywhere		
 425421	altliough	although		
@@ -2514,7 +2511,7 @@
 441110	\^excepting	(excepting		
 441285	caiitarclla	cantarella		
 441329	giilgiila	gulgula		
-441357	axlivox	cœlivox	caelivox	unicode
+441357	axlivox	cælivox	caelivox	unicode
 441369	ivai/crsi	wattersi		
 441380	arid	and		
 441755	sccuiid	second		
@@ -2652,7 +2649,7 @@
 463486	Curiiicit)	Carretera		
 463758	Sauderling	Sanderling		
 464135	eart	earth		
-464259	- —	-		unicode punctuation
+464259	- -	-		unicode punctuation
 464539	diy	dry		
 464730	'95	˙95		unicode numeric
 464737	"bS	˙68		unicode numeric
@@ -2766,7 +2763,7 @@
 481453	tlieir	their		
 482081	speciniens	specimens		
 482217	crop	crops		
-482260	Polygonacea	Polygonaceœ	Polygonaceae	unicode
+482260	Polygonacea	Polygonaceæ	Polygonaceae	unicode
 482406	larvae	larvæ		unicode
 482418	pupae	pupæ		unicode
 482640	frequentl}^	frequently		
@@ -2874,7 +2871,7 @@
 492499	Tl 'KDID. E	TURDIDÆ	TURDIDAE	unicode
 492513	Su/ifaniuy	Subfamily		
 492524	SVL I 'ILWF	SYLVIINÆ	SYLVIINAE	
-492538	Cetti'vS	CETTI’S		unicode
+492538	Cetti'vS	CETTI'S		unicode
 492547	Warrlkr	WARBLER		
 492557	Cetfin	Cettia		
 492564	ccttii	cettii		
@@ -2902,11 +2899,10 @@
 495664	followiug	following		
 495676	Fa mi ly	Family		
 495686	MO TA CILL ID. F	MOTACILLIDÆ	MOTACILLIDAE	
-495705	SykEvS'	SYKES’		unicode
+495705	SykEvS'	SYKES'		unicode
 495801	2otli	20th		numeric
-495808	1898	I898		numeric ERROR
 495823	MO TA CILLlDzE	MOTACILLIDÆ	MOTACILLIDAE	unicode
-495844	AvShy-Headed	ASHY‐HEADED		unicode
+495844	AvShy-Headed	ASHY-HEADED		unicode
 495893	Sa\'I	SAVI		
 496106	/lava	flava		
 496153	nowadaj'S	nowadays		

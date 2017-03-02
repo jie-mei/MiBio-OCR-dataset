@@ -13,7 +13,7 @@ everywhere to be seen. I must confess that I like the Jackdaw : he is a bird
 with considerable sense of humour, and (in spite of much persecution) he seems
 to bear no malice. The late Lord Lilford, however, could find nothing good to
 say of him : the following being some of his remarks respecting the Jackdaw in
-his "Birds of Northamptonshire": — "This amusing but most pernicious bird is
+his "Birds of Northamptonshire": - "This amusing but most pernicious bird is
 extremely common in our county, and probably onl}' too well-known to most of
 our readers. In the hollow trees about the park and pleasure-grounds of Lilford
 they used to swarm at the breeding-season, till we found it absolutely necessary
@@ -34,7 +34,7 @@ the Daw fulfils his duties in the great scheme of nature I do not deny, but must
 confess that I am unable to discover what they may be."
 
 Seebohm, however, although he admits that it levies blackmail on the Gulls,
-says of the Jackdaw: — "It is quite as harmless a bird as the Rook, and at certain
+says of the Jackdaw: - "It is quite as harmless a bird as the Rook, and at certain
 seasons of the year it is very useful. You have but to watch its actions in the
 fields to be convinced of this."
 

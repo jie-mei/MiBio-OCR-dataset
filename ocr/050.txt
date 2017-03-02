@@ -1,6 +1,6 @@
-Family— FRINGILLID.^.
+Family- FRINGILLID.^.
 
-Subfamily— FRINGILLIN.E.
+Subfamily- FRINGILLIN.E.
 
 The Two-Barred CroSvSbill.
 
@@ -8,7 +8,7 @@ Lo\ia bifasctala, C. L. Brkhm.
 
 HOWARD SAUNDERS gives the following account of the distribution of
 this species, aud its claims to be regarded as British seem to be well
-supported :— It " inhabits the coniferous forests of Northern Russia, and
+supported :- It " inhabits the coniferous forests of Northern Russia, and
 Siberia, as far as the Pacific ; wandering in autumn aud winter to South Sweden,
 Denmark, Heligoland, North Germany, Holland, Belgium, the North of France,
 North Italy, Austria and Poland. In our Islands the first recorded specimen was
