@@ -14,12 +14,18 @@ GT_TXT_PATH   = 'gt'
 OCR_TXT_PATH  = 'ocr'
 
 
-UNICODE_REP = {
+OCR_UNICODE_REP = {
         chr(64256): 'ff',   # U+FB00
         chr(64257): 'fi',   # U+FB01
         chr(64258): 'fl',   # U+FB02
         chr(64259): 'ffi',  # U+FB03
         chr(64260): 'ffl',  # U+FB04
+        }
+
+# ASCII representations to 
+GT_UNICODE_REP = {
+        chr(198):   'AE',   # U+00C6
+        chr(230):   'ae',   # U+00E6
         }
 
 
@@ -94,14 +100,15 @@ def eval_text_match(gt_path=GT_TXT_PATH, ocr_path=OCR_TXT_PATH,
         # Substitute errors in the OCR text.
         ocr_sub = ocr_l
         sub_offset = 0
-        for (e_pos, e_ocr, e_gt, _, _) in errs:
+        for (e_pos, e_ocr, e_gt, e_gt_ascii, _) in errs:
             e_offset = e_pos - offset + sub_offset
-            sub_offset += len(e_gt) - len(e_ocr)  # change due to substitutions
-            ocr_sub = ocr_sub[:e_offset] + e_gt + ocr_sub[e_offset + len(e_ocr):]
+            e_sub = e_gt_ascii if len(e_gt_ascii) > 0 else e_gt
+            sub_offset += len(e_sub) - len(e_ocr)  # change due to substitutions
+            ocr_sub = ocr_sub[:e_offset] + e_sub + ocr_sub[e_offset + len(e_ocr):]
 
-        # Substitue unicode in OCR text
-        for k, v in UNICODE_REP.items():
-            ocr_sub = ocr_sub.replace(k, v)
+        # Substitue unicode in GT and OCR text
+        for k, v in  GT_UNICODE_REP.items(): gt_l = gt_l.replace(k, v)
+        for k, v in OCR_UNICODE_REP.items(): ocr_sub = ocr_sub.replace(k, v)
 
         # Check alignment of non-whitespace characters.
         def next(gen):
@@ -124,23 +131,33 @@ def eval_text_match(gt_path=GT_TXT_PATH, ocr_path=OCR_TXT_PATH,
                                 offset, gt_l[:-1], ocr_sub[:-1], ocr_l[:-1]))
 
 
-def eval_err_list(err_path):
+def eval_err_list(err_path=GT_ERROR_PATH):
     """ Check the format of the ground error list file. """
-    errors = [e.split('\t') for l in codecs.open(err_path, 'r', 'utf-8')]
-    for pos, ocr, gt, gt_ascii, info in e:
+    errors = [l.split('\t') for l in codecs.open(err_path, 'r', 'utf-8')]
+    for pos, ocr, gt, gt_ascii, info in errors:
         # Check if there is ASCII verson for GT name with unicode.
-        if not all(ord(c) < 128 for c in gt) and len(gt_ascii) == 0:
+        if (not all(ord(c) < 128 for c in gt)
+                and len(gt_ascii) == 0
+                # some special types allow unicode
+                and not (re.search(r'(person|place)-name', info)
+                        or re.search(r'sound-simulation', info)
+                        or re.search(r'special', info)
+                        or re.search(r'punctuation', info))):
             raise Exception('Format error: gt_ascii do not exists: {}'
-                    .format(err))
+                    .format(pos))
 
         # Check if gt_ascii is in ASCII
         if not all(ord(c) < 128 for c in gt_ascii):
             raise Exception('Format error: gt_ascii is not in ASCII: {}'
-                    .format(err))
+                    .format(pos))
     
 
 
 if __name__ == '__main__':
+    print(chr(339))
+    print(chr(230))
+    print(chr(230))
     eval_text_match()
+    eval_err_list()
     print('Done!')
 

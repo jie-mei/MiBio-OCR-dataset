@@ -27,7 +27,6 @@
 6769	eas}'	easy		
 6994	leaves."	leaves."		unicode
 7035	largel}'	largely		
-7065	larvae	larvæ		unicode bird-type
 7195	b}^	by		
 7470	an}'	any		
 7711	extremelj'	extremely		
@@ -112,7 +111,7 @@
 24340	Goldeu	Golden		bird-type
 24830	difficult}'	difficulty		
 25539	tlie	the		
-25622	Corvincr	Corvinæ		unicode bird-type
+25622	Corvincr	Corvinæ	Corvinae	unicode bird-type
 25790	Glinther	Günther		unicode person-name
 26264	Jul}^	July		
 26492	loth	10th		numeric
@@ -192,7 +191,7 @@
 40056	iuuer	inner		
 41612	cir-ir-iy-ir-re	cir-ir-ir-ir-re		sound-simulation
 41838	largel}'	largely		
-43121	fseces	fæces		unicode
+43121	fseces	fæces	faeces	unicode
 43267	bu}'	buy		
 43272	au}^	any		
 43464	aud	and		
@@ -209,9 +208,8 @@
 44861	e3'^es	eyes		
 44905	mostl}''	mostly		
 45814	vSeebohm	Seebohm		
-45868	Palaearctic	Palæarctic		unicode
 46265	MUSCICAPIDyE	MUSCICAPIDÆ	MUSCICAPIDAE	unicode
-46396	Tromso	Tromsö		unicode
+46396	Tromso	Tromsö		unicode person-name
 46599	IMinor	Minor		
 46771	Fljxatcher	Flycatcher		
 46815	everjr	every		
@@ -272,7 +270,7 @@
 59777	tijubre	timbre		
 60111	iiuish	finish		
 60192	nij^	my		
-60412	Gatke	Gätke		unicode
+60412	Gatke	Gätke		unicode person-name
 60725	"			
 60826	imderstand	understand		
 60939	Kurope	Europe		
@@ -318,7 +316,7 @@
 68137	puik	pink		
 68143	aud	and		
 68147	/	t		
-68231	Giitke	Gätke		unicode
+68231	Giitke	Gätke		unicode person-name
 69275	iu	in		
 69786	HIRUNDINID^	HIRUNDINIDÆ	HIRUNDINIDAE	unicode
 69800	SEEBOHAI	SEEBOHM		
@@ -356,7 +354,6 @@
 77225	(it	tit		sound-simulation
 77233	(il	tit		sound-simulation
 77272	largel}'	largely		
-77308	ephemerae	ephemeræ		unicode
 77712	au	an		
 77834	out.spread	outspread		
 78663	aviar}-	aviary		
@@ -607,7 +604,7 @@
 118296	iu	in		
 118454	iu	in		
 118697	meutiouing	mentioning		
-118999	Gatke	Gätke		unicode
+118999	Gatke	Gätke		unicode person-name
 119018	18S9	1889		numeric
 119203	i6tli	16th		
 119697	FRIXGILLIDrE	FRINGILLIDÆ	FRINGILLIDAE	unicode
@@ -652,7 +649,6 @@
 125301	Esc|	Esq		
 125329	3'oung	young		
 125356	largel}'	largely		
-125394	larvae	larvæ		unicode
 125674	fund	fond		
 125785	onl}'	only		
 125894	nn'	my		
@@ -752,13 +748,13 @@
 143485	ver}'	very		
 143498	3'ellow	yellow		
 143555	cpiestion	question		
-143665	Gatke	Gätke		unicode
+143665	Gatke	Gätke		unicode person-name
 143984	Slcswick	Sleswick		
 144245	.summer	summer		
 144404	hill}'	hilly		
 144795	qnoted	quoted		
 144805	Seebolim	Seebohm		
-144970	Aur^s	Aurès		unicode
+144970	Aur^s	Aurès		unicode place-name
 145014	Inxuriant	luxuriant		
 145120	beautifull_v	beautifully		
 145549	puint	point		
@@ -912,7 +908,7 @@
 166615	l)uilt	built		
 166809	especiall}'	especially		
 166899	the3%	they,		
-167388	l]l/ci-c-ur	Whee-é-ur		unicode
+167388	l]l/ci-c-ur	Whee-é-ur		unicode sound-simulation
 167401	whec-c-ur	whee-é-ur		unicode sound-simulation
 167412	whtc-c-nr	whee-é-ur		unicode sound-simulation
 167423	too-00-cc	too-oo-ee		sound-simulation
@@ -1002,7 +998,7 @@
 179721	vStoke	Stoke		
 179738	i860	1860		numeric
 180120	Singularl}'	Singularly		
-180604	Gatke	Gätke		unicode
+180604	Gatke	Gätke		unicode person-name
 180806	4tli	4th		
 180815	5tli	5th		
 180859	"innumerable	"innumerable		unicode
@@ -1076,7 +1072,7 @@
 189404	iu	in		
 189512	3'ellowish	yellowish		
 189591	ver}-	very		
-189716	Gatke	Gätke		unicode
+189716	Gatke	Gätke		unicode person-name
 189918	identit}^	identity		
 190127	Favnly	Family		
 190134	FRLYGILLID.E	FRINGILLIDÆ	FRINGILLIDAE	unicode
@@ -1249,13 +1245,12 @@
 218991	haud	hand		
 219043	sougs	songs		
 219412	Canar}'	Canary		
-219500	larvae	larvæ		unicode
 219588	Loudon	London		
 219863	FRINGILLID^	FRINGILLIDÆ	FRINGILLIDAE	unicode
 219887	FRINGILLIALF	FRINGILLINÆ	FRINGILLINAE	unicode
 219928	nioiitanus	montanus		
 219947	SEEBOHM	REEBOHM		
-220072	Palsearctic	Palæarctic		unicode
+220072	Palsearctic	Palæarctic	Palaearctic	unicode
 220405	Afgliaiiistau	Afghanistan		
 220420	aud	and		
 220446	fouud	found		
@@ -1369,7 +1364,6 @@
 238839	I'eddish	reddish		
 238861	t3'pe	type		
 239052	certainl}-	certainly		
-239258	larvae	larvæ		unicode
 239352	chiefl}'	chiefly		
 239361	upou	upon		
 239447	3'ears	years		
@@ -1454,7 +1448,7 @@
 251419	auy	any		
 251777	German}^	Germany		
 251846	ludia	India		
-252115	Gatke	Gätke		unicode
+252115	Gatke	Gätke		unicode person-name
 252253	^	;		punctuation
 252255	i*^	it		
 252259	i''	is		
@@ -1488,7 +1482,7 @@
 259757	E)iiberiza	Emberiza		
 260016	Norwa}'	Norway		
 260093	Riea	Riga		
-260507	Petrsea	Petræa		unicode
+260507	Petrsea	Petræa	Petraea	unicode
 261385	.shores	shores		
 261675	dai'k	dark		
 261705	primary-	primary		
@@ -1520,7 +1514,6 @@
 265343	couiluent	confluent		
 265401	extremit_y	extremity		
 265481	Ma}^	May		
-265844	larvae	larvæ		unicode
 265936	cjuantities	quantities		
 266625	uupleasing	unpleasing		
 266824	-	.		punctuation
@@ -1563,7 +1556,6 @@
 275874	ffcyrclup	fferrelup		unicode
 276069	3'ou	you		
 276582	.close	close		
-277061	larvae	larvæ		unicode
 277218	fouder	fonder		
 277771	sliilling	shilling		
 277838	parti}'	partly		
@@ -1623,11 +1615,11 @@
 286029	oue	one		
 286072	fiue	fine		
 286237	liave	have		
-286501	Gatke	Gätke		unicode
+286501	Gatke	Gätke		unicode person-name
 286615	Zaiincviniur	Zaunammer		
 286747	Einhoiza	Emberiza		
 286776	Zippa»n>icr	Zippammer		
-286826	Gatke	Gätke		unicode
+286826	Gatke	Gätke		unicode person-name
 286886	Embcriza	Emberiza		
 286895	chins	cirlus		
 286948	b}'	by		
@@ -1783,7 +1775,7 @@
 307685	zshivec	zshwee		
 307724	tsclicc	tschee		
 307811	cr}^	cry		
-307878	larvse	larvæ		unicode
+307878	larvse	larvæ	larvae	unicode
 307908	snmmer	summer		
 307939	:	;		punctuation
 308582	recentl3^	recently,		
@@ -1816,7 +1808,7 @@
 313779	Seebolim	Seebohm		
 313941	iu	in		
 313964	i8th	18th		numeric
-314039	i	½		unicode
+314039	i	½		unicode special
 314300	principall}'	principally		
 314316	compau}-	company		
 315258	chciig	cheng		
@@ -1833,13 +1825,13 @@
 316555	iinderlying	underlying		
 316595	var}'	vary		
 316816	IL	II,		
-316840	Gatke	Gätke		unicode
+316840	Gatke	Gätke		unicode person-name
 316971	wilduess	wildness		
 317072	3'ears	years		
 317138	melanchol}^	melancholy		
 317389	onlj^	only		
 317947	moiilt	moult		
-318123	Gatke	Gätke		unicode
+318123	Gatke	Gätke		unicode person-name
 318308	np	up		
 318397	Air	Mr		
 318408	Gurne}-	Gurney		
@@ -1891,7 +1883,7 @@
 325868	fl^'ing	flying		
 325983	fivcck	tweek		
 326042	zslnveco	zshweeo		
-326588	Gatke	Gätke		unicode
+326588	Gatke	Gätke		unicode person-name
 326655	frequently'	frequently		
 327051	b}'	by		
 327070	Gnnton	Gunton		
@@ -1937,11 +1929,11 @@
 330680	j^ears	years		
 330702	iu	in		
 330779	Ictcyus	Icterus		
-330995	Stuiiiidcc	Sturnid		unicode
-331037	Icki tdcc	Icterid		unicode
-331051	Coivida	Corvid		unicode
-331253	Stuniidcc	Sturnid		unicode
-331267	Icicrida	Icterid		unicode
+330995	Stuiiiidcc	Sturnidæ	Sturnidae	unicode
+331037	Icki tdcc	Icteridæ	Icteridae	unicode
+331051	Coivida	Corvidæ	Corvidae	unicode
+331253	Stuniidcc	Sturnidæ	Sturnidae	unicode
+331267	Icicrida	Icteridæ	Icteridae	unicode
 331580	Fawily	Family		
 331587	STURNW.-E	STURNIDÆ	STURNIDAE	
 331614	Sfitniiis	Sturnus		
@@ -1985,7 +1977,6 @@
 337690	easil}-	easily		
 338166	m}-	my		
 338306	onlj-	only		
-338459	larvae	larvæ		unicode
 339053	heav}^	heavy		
 339808	thej'	they		
 340205	b}-	by		
@@ -2012,7 +2003,7 @@
 345177	ilocks	flocks		
 345265	tliey	they		
 345711	ver}-	very		
-346130	Kriiper	Krüper		unicode
+346130	Kriiper	Krüper		unicode person-name
 346504	c^uarries	quarries		
 347574	Turdida	Turdidæ	Turdidae	unicode
 347589	lyilford	Lilford		
@@ -2053,9 +2044,8 @@
 355070	largely'	largely		
 355140	alternatel}-	alternately		
 355184	suddenl}'	suddenly		
-355372	Khef-o	Khéé'-o		unicode
-355380	klia'-o	khéé'-o		unicode
-355573	larvae	larvæ		unicode
+355372	Khef-o	Khéé'-o		unicode sound-simulation
+355380	klia'-o	khéé'-o		unicode sound-simulation
 355588	probabl}'	probably		
 355665	wholl}'	wholly		
 355694	cixvice	crevice		
@@ -2080,7 +2070,7 @@
 359019	LiXX	LINN		
 359049	tlironghont	throughout		
 359061	tlie	the		
-359066	Palrearetic	Palæarctic		unicode
+359066	Palrearetic	Palæarctic	Palaearctic	unicode
 359098	Enrope	Europe		
 359109	vSontli	South		
 359117	Norwaj'	Norway		
@@ -2110,7 +2100,7 @@
 364785	Corvuicc	Corvidæ	Corvidae	unicode
 364821	vSeebohm	Seebohm		
 364847	tameuess	tameness		
-365150	larvse	larvæ		unicode
+365150	larvse	larvæ	larvae	unicode
 365174	laeetles	beetles		
 365330	tliat	that		
 365508	kya\	kray		
@@ -2189,7 +2179,6 @@
 385692	alwaj-s	always		
 386036	exceptiouall}'	exceptionally		
 386163	uniforml}^	uniformly		
-386644	larvae	larvæ		unicode
 386658	3-oung	young		
 386899	IMagpie	Magpie		
 387336	Bouhote	Bonhote		
@@ -2343,7 +2332,7 @@
 411751	Histor}'	History		
 412534	ajipears	appears		
 412784	h3-bridize	hybridize		
-412892	Gatke	Gätke		unicode
+412892	Gatke	Gätke		unicode person-name
 413019	3'ears	years		
 413182	the}'	they		
 413512	gre}'	grey		
@@ -2362,7 +2351,6 @@
 415035	Carriou	Carrion		
 415571	tliree	three		
 417582	greedil}'	greedily		
-417619	larvae	larvæ		unicode
 417652	lie	he		
 417926	.standing	standing		
 418947	j'oung	young		
@@ -2396,12 +2384,12 @@
 423187	osprc}'	osprey		
 423582	b}'	by		
 423586	da\-	day		
-423596	Gatke	Gätke		unicode
+423596	Gatke	Gätke		unicode person-name
 423696	o'clock	o'clock		unicode
 423955	o'clock	o'clock		unicode
 423988	scarcel}^	scarcely,		
 424481	simultaneous!}'	simultaneously		
-424758	Gatke	Gätke		unicode
+424758	Gatke	Gätke		unicode person-name
 424864	readers'	readers'		unicode
 425240	econom_v	economy		
 425260	Evcr\'where	Everywhere		
@@ -2425,7 +2413,7 @@
 427880	Mail}-	Many		
 427943	willi	with		
 427995	tliere	there		
-428200	Giitke	Gätke		unicode
+428200	Giitke	Gätke		unicode person-name
 428286	sa3's	says		
 428573	Gre}'	Grey		
 428699	c\ten)ii}iatc	exterminate		
@@ -2440,9 +2428,8 @@
 430109	.slender	slender		
 430127	tlie	the		
 430205	.slate	slate		
-430335	larvje	larvæ		unicode
+430335	larvje	larvæ	larvae	unicode
 430923	preferabl}^	preferably		
-431229	larvae	larvæ		unicode
 431289	onl}'	only		
 431456	segetuin	segetum		
 432118	foiirteen	fourteen		
@@ -2467,7 +2454,6 @@
 436651	,	;		punctuation
 436667	catv	caw		
 436848	ar-cc-o	ar-ee-o		sound-simulation
-436929	larvae	larvæ		unicode
 437410	ni}-	my		
 437719	f	†		punctuation
 437728	ALAUDIDJ-:	ALAUDIDÆ	ALAUDIDAE	unicode
@@ -2475,7 +2461,7 @@
 437784	phiccd	placed		
 437796	faniil_y	family		
 437847	certainly-	certainly		
-437952	Motaciilidcc	Motacillid		unicode
+437952	Motaciilidcc	Motacillidæ	Motacillidae	unicode
 437972	vSeel)ohm	Seebohm		unicode
 438040	b}'	by		
 438048	Sharpc	Sharpe		
@@ -2493,15 +2479,14 @@
 438798	Sannders	Saunders		
 438842	sa3-s	says		
 438867	majorit}-	majority		
-438937	Alaiiiiidic	Alaudid		unicode
-438957	Coii'ida	Corvidæ		unicode
+438937	Alaiiiiidic	Alaudidæ	Alaudidae	unicode
+438957	Coii'ida	Corvidæ	Corvidae	unicode
 438965	''	"		punctuation
 439007	Passcrcs	Passeres		
 439049	i'eet	feet		
 439123	man}'	many		
 439209	the}-	they		
-439434	larvae	larvæ		unicode
-440171	Aluudida	Alaudidæ		unicode
+440171	Aluudida	Alaudidæ	Alaudidae	unicode
 440204	fainih'	family		
 440326	j\Iala3-ana	Malayana		
 440355	Familx	Family		
@@ -2548,7 +2533,6 @@
 446052	niothcr	mother		
 446060	l)ird	bird		
 446329	soug	song		
-446735	larvae	larvæ		unicode
 447002	iisually	usually		
 447026	gd	9d		numeric
 447033	is	1s		numeric
@@ -2573,7 +2557,7 @@
 450718	canar}'	canary		
 451363	3'our	your		
 451448	i-eturned	returned		
-451832	Gatke	Gätke		unicode
+451832	Gatke	Gätke		unicode person-name
 451838	saj'S	says		unicode
 452582	^	-		punctuation
 452584	ALA UDID. F	ALAUDIDÆ	ALAUDIDAE	unicode
@@ -2651,8 +2635,8 @@
 464135	eart	earth		
 464259	- -	-		unicode punctuation
 464539	diy	dry		
-464730	'95	˙95		unicode numeric
-464737	"bS	˙68		unicode numeric
+464730	'95	˙95		unicode special
+464737	"bS	˙68		unicode special
 464760	wdiich	which		
 464868	sandj^	sandy		
 464946	rapidit}'	rapidity		
@@ -2662,7 +2646,6 @@
 465170	iu	in		
 465183	fauiily	family		
 465308	duriug	during		
-465444	larvae	larvæ		unicode
 465625	sa3's	says		
 465639	xA-lgeria	Algeria		
 465679	iuto	into		
@@ -2684,10 +2667,9 @@
 467822	b}^	by		
 467826	Jerdou	Jerdon		
 468160	the}'	they		
-468260	Pere	Pére		unicode
+468260	Pere	Pére		unicode person-name
 468279	187 1	1871		
 468581		:		punctuation
-468722	larvae	larvæ		unicode
 468928	Familx	Family		
 468935	ALA UDID^	ALAUDIDÆ	ALAUDIDAE	
 468956		-		punctuation
@@ -2737,7 +2719,7 @@
 475959	wonnded	wounded		
 476069	alwa3'S	always		
 476194	the}'	they		
-476606	Gatke	Gätke		unicode
+476606	Gatke	Gätke		unicode person-name
 476795	ver}-	very		
 476801	solitar}'	solitary		
 477247	momeutaril}-	momentarily		
@@ -2764,10 +2746,8 @@
 482081	speciniens	specimens		
 482217	crop	crops		
 482260	Polygonacea	Polygonaceæ	Polygonaceae	unicode
-482406	larvae	larvæ		unicode
-482418	pupae	pupæ		unicode
 482640	frequentl}^	frequently		
-482688	Gatke	Gätke		unicode
+482688	Gatke	Gätke		unicode person-name
 483025	captivit}'	captivity		
 483723	j-ear	year		
 484202	Canar3^	Canary		
