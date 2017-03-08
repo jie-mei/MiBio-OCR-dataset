@@ -158,7 +158,9 @@ def eval_err_list(err_path=GT_ERROR_PATH):
                     .format(pos))
 
         # Check if there is any GT name can be further splitted.
-        if re.match(r'\w+\W+$', gt) and int(pos) not in [258955, 457072]:
+        if (re.match(r'\w+\W+$', gt)
+                # with exceptions
+                and int(pos) not in [258955, 457072, 495705]):
             raise Exception('Format error: gt contains multiple tokens: {}'
                     .format((pos, ocr, gt, gt_ascii, info)))
     
