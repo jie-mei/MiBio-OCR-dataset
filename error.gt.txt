@@ -11,7 +11,8 @@
 2000	ga/bula	galbula		
 2920	iu	in		
 2949	uest	nest		
-3148	Maj^	May,		
+3148	Maj^	May		
+3152		,		
 3173	Feildeu	Feilden		person-name
 3682	j^ellowish	yellowish		
 5473	j ust	just		
@@ -25,7 +26,6 @@
 6439	''	"		punctuation
 6457	IMacphersou	Macpherson		person-name
 6769	eas}'	easy		
-6994	leaves."	leaves."		unicode
 7035	largel}'	largely		
 7195	b}^	by		
 7470	an}'	any		
@@ -75,10 +75,12 @@
 13266	(xcubitoy	excubitor		bird-type
 14040	bell}-	belly		
 14181	seeu	seen		
-14303	countr}^	country,		
+14303	countr}^	country		
+14311		,		
 14636	Parus.	Parus		bird-type
 14646	Regiilus	Regulus		bird-type
-14802	pre}^	prey,		
+14802	pre}^	prey		
+14807		,		
 15198	bulk}'	bulky		
 15264	Ijcnts	bents		
 15497	aud	and		
@@ -163,7 +165,7 @@
 35290	als j	also		
 35296	saj'S	says		
 35308	poiiui-iVtiis	pomeranus		
-35389	nt/us)	rufus)		
+35389	nt/us	rufus		
 35586	L ANIID. 'E	LANIIDÆ	LANIIDAE	unicode bird-type
 35604	Maskkd	MASKED		bird-type
 35611	Shrikp:	SHRIKE		bird-type
@@ -174,7 +176,8 @@
 35842	AMPELID.55	AMPELIDÆ	AMPELIDAE	unicode bird-type
 35974	Lioi/irix	Liothrix		bird-type
 36283	Passercs	Passeres		bird-type
-36782	Subfamil}^	Subfamily,		
+36782	Subfamil}^	Subfamily		
+36792		,		
 36971	n	II		
 36977	i	1		
 37006	Ainpelis	Ampelis		bird-type
@@ -198,7 +201,8 @@
 43914	c|uite	quite		
 43978	aviarv	aviary		
 43990	Wa.Kwing	Waxwing		bird-type
-44042	captivit3%	captivity,		
+44042	captivit3%	captivity		
+44052		,		
 44092	aud	and		
 44124	m	in		
 44154	certaiul}-	certainly		
@@ -279,7 +283,8 @@
 62999	Familv	Family		
 63006	MUSCICAPID.-E.	MUSCICAPIDÆ	MUSCICAPIDAE	
 63069	Bkchst	BECHST		
-63292	Ma3%	May,		
+63292	Ma3%	May		
+63296		,		
 63495	Trans3dvania	Transylvania		
 64038	January'	January		
 64120	ScilW	Scilly		
@@ -332,11 +337,13 @@
 71858	luountaiu	mountain		
 71868	rauges	ranges		
 72045	vSpitzbergeu	Spitzbergen		place-name
-72299	Ma}^	May,		
+72299	Ma}^	May		
+72303		,		
 72401	}ilr	Mr		
 72407	Froliawk	Frohawk		line-break
 72977	huffish	buffish		
-73655	b}^	by,		
+73655	b}^	by		
+73658		,		
 74132	situations-	situations		
 74335	chimne3's	chimneys		
 74570	s3'camore	sycamore		
@@ -717,7 +724,8 @@
 135407	wdiich	which		
 135814	\veek	week		
 135865	nidificatiou	nidification		
-135966	Jul}^	July,		
+135966	Jul}^	July		
+135971		,		
 136284	steadil}^	steadily		
 136352	da}'	day		
 136720	diflScult	difficult		
@@ -768,7 +776,8 @@
 148023	hojDed	hoped		
 148202	iu	in		
 148219	sa3's	says		
-148266	bu}^	buy,		
+148266	bu}^	buy		
+148270		,		
 148278	uot	not		
 148324	man}'	many		
 148419	war}-	wary		
@@ -784,7 +793,7 @@
 149832	iu	in		
 150680	Familv	Family		
 150686	---	-		punctuation
-150690	FRINGILLID. E.	FRINGILLIDÆ.	FRINGILLIDAE.	unicode
+150690	FRINGILLID. E	FRINGILLIDÆ	FRINGILLIDAE	unicode
 150706	Subfawtly	Subfamily		
 150716	FRINGILLIAVE	FRINGILLINÆ	FRINGILLINAE	unicode
 150744	Clitysomitris	Chrysomitris		
@@ -813,11 +822,13 @@
 154153	probabl}'	probably		
 154374	///	tit		
 154596	sa3-s	says		
-154621	]Ma3%	May,		
+154621	]Ma3%	May		
+154626		,		
 154631	,	.		
 154766	continuall3-	continually		
 154815	Yon	You		
-154880	cr3%	cry,		
+154880	cr3%	cry		
+154884		,		
 154921	fl3'ing	flying		
 155087	jo3-ous	joyous		
 155122	oft"	off		
@@ -852,7 +863,8 @@
 158831	alwaj'S	always		
 158861	snrprisingh'	surprisingly		
 159325	m}'	my		
-159459	libert}^	liberty,		
+159459	libert}^	liberty		
+159467		,		
 159526	presentl}'	presently		
 159815	3'oung	young		
 159932	FRINGILLIDyE	FRINGILLIDÆ	FRINGILLIDAE	unicode
@@ -907,7 +919,8 @@
 166543	dr}-	dry		
 166615	l)uilt	built		
 166809	especiall}'	especially		
-166899	the3%	they,		
+166899	the3%	they		
+166904		,		
 167388	l]l/ci-c-ur	Whee-é-ur		unicode sound-simulation
 167401	whec-c-ur	whee-é-ur		unicode sound-simulation
 167412	whtc-c-nr	whee-é-ur		unicode sound-simulation
@@ -1001,7 +1014,6 @@
 180604	Gatke	Gätke		unicode person-name
 180806	4tli	4th		
 180815	5tli	5th		
-180859	"innumerable	"innumerable		unicode
 180938	co\-ered	covered		
 181203	iu	in		
 181239	gdutted	glutted		
@@ -1175,7 +1187,8 @@
 208492	uld	old		
 209208	IL	II		
 209210		.		punctuation
-209263	Gurne3^	Gurney,		
+209263	Gurne3^	Gurney		
+209270		,		
 209516	nu-	my		
 209611	carrj'	carry		
 209618	off"	off		
@@ -1345,7 +1358,8 @@
 235922	exceedingh-	exceedingly		
 236048	pretty'	pretty		
 236091	glaringl}'	glaringly		
-236232	hand}^	handy,		
+236232	hand}^	handy		
+236238		,		
 236325	freqiieutl}'	frequently		
 236398	wonld	would		
 236901	freciuentl}-	frequently		
@@ -1358,7 +1372,6 @@
 237572	Canarj-	Canary		
 237754	b}-	by		
 237911	t\pe	type		
-237983	spiders'	spiders'		unicode
 238068	la3'er	layer		
 238215	hardl}-	hardly		
 238839	I'eddish	reddish		
@@ -1678,7 +1691,6 @@
 294479	the}'	they		
 294849	iu	in		
 295259	show-	show		
-295469	Russ'	Russ'		unicode
 296093	SiVcrora	Sitagra		
 296102	f	(		punctuation
 296290	Liolhrix	Liothrix		
@@ -1778,7 +1790,8 @@
 307878	larvse	larvæ	larvae	unicode
 307908	snmmer	summer		
 307939	:	;		punctuation
-308582	recentl3^	recently,		
+308582	recentl3^	recently		
+308591		,		
 308967	^	-		punctuation
 308968	FRINGILLID.'E	FRINGILLIDÆ	FRINGILLIDAE	unicode
 308995	EMBERIZIN.F	EMBERIZINÆ	EMBERIZINAE	unicode
@@ -1824,7 +1837,8 @@
 316494	gre}'	grey		
 316555	iinderlying	underlying		
 316595	var}'	vary		
-316816	IL	II,		
+316816	IL	II		
+316818		,		
 316840	Gatke	Gätke		unicode person-name
 316971	wilduess	wildness		
 317072	3'ears	years		
@@ -1999,7 +2013,9 @@
 342608	iu	in		
 343593	usualh-	usually		
 343800	Andropogoii	Andropogon		
-343812	soy ah us y	sorghus)"		unicode
+343812	soy ah us	sorghus		unicode
+343822	y	)		unicode
+343823		"		unicode
 345177	ilocks	flocks		
 345265	tliey	they		
 345711	ver}-	very		
@@ -2172,7 +2188,6 @@
 384511	tlie	the		
 384582	vS	S		
 384644	Norwaj-	Norway		
-384798	'Manual	'Manual		unicode
 385540	b}'	by		
 385654	ver^^	very		
 385660	bulk}'	bulky		
@@ -2209,17 +2224,18 @@
 392283	gronnd	ground		
 392434	undoubtedl}-	undoubtedly		
 392532	varioush'	variously		
-392555	cae.	cae,		
+392558	.	,		
 392560	caiv	caw		
 392566	(jiiick	quick		
-392581	c	&		punctuation
-392582	vc	c.		
+392581	cv	&		punctuation
+392584		.		
 392618	licard	heard		
 392660	cliack	chack		
 392671	cli,u-k	chark		
 392791	au}'	any		
 392940	(jf	of		
-392946	chimne3%	chimney,		
+392946	chimne3%	chimney		
+392954		,		
 393368	t)r	or		
 393614	th(jse	those		
 393634	Rmnd	found		
@@ -2385,12 +2401,10 @@
 423582	b}'	by		
 423586	da\-	day		
 423596	Gatke	Gätke		unicode person-name
-423696	o'clock	o'clock		unicode
-423955	o'clock	o'clock		unicode
-423988	scarcel}^	scarcely,		
+423988	scarcel}^	scarcely		
+423997		,		
 424481	simultaneous!}'	simultaneously		
 424758	Gatke	Gätke		unicode person-name
-424864	readers'	readers'		unicode
 425240	econom_v	economy		
 425260	Evcr\'where	Everywhere		
 425421	altliough	although		
@@ -2603,7 +2617,8 @@
 458369	mj-	my		
 458406	Sittiugbourne	Sittingbourne		
 458651	promineut	prominent		
-458693	awaj^	away,		
+458693	awaj^	away		
+458698		,		
 458775	aud	and		
 458961	certainlj?	certainly		
 459363	b}'	by		
@@ -2765,7 +2780,7 @@
 487041	Turdiis	Turdus		
 487049	dubiiis	dubius		
 487067	NE	ONE		
-487110	Gunthorpe.	Gunthorpe,		
+487119	.	,		
 487198	Stornowa}-	Stornoway		
 487352	i8th	18th		numeric
 487508	Ti 'RDID. E	TURDIDÆ	TURDIDAE	unicode

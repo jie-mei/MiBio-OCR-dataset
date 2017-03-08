@@ -135,7 +135,13 @@ def eval_err_list(err_path=GT_ERROR_PATH):
     """ Check the format of the ground error list file. """
     errors = [l.split('\t') for l in codecs.open(err_path, 'r', 'utf-8')]
     for pos, ocr, gt, gt_ascii, info in errors:
-        # Check if there is ASCII verson for GT name with unicode.
+
+        # Check if there is any false error.
+        if gt == ocr or (len(gt) and gt == gt_ascii):
+            raise Exception('Format error: false error: {}'
+                    .format((pos, ocr, gt, gt_ascii, info)))
+
+        # Check if there is unicode GT name without ASCII version.
         if (not all(ord(c) < 128 for c in gt)
                 and len(gt_ascii) == 0
                 # some special types allow unicode
@@ -150,6 +156,11 @@ def eval_err_list(err_path=GT_ERROR_PATH):
         if not all(ord(c) < 128 for c in gt_ascii):
             raise Exception('Format error: gt_ascii is not in ASCII: {}'
                     .format(pos))
+
+        # Check if there is any GT name can be further splitted.
+        if re.match(r'\w+\W+$', gt) and int(pos) not in [258955, 457072]:
+            raise Exception('Format error: gt contains multiple tokens: {}'
+                    .format((pos, ocr, gt, gt_ascii, info)))
     
 
 
