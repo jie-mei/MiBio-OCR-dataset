@@ -29,23 +29,6 @@ GT_UNICODE_REP = {
         }
 
 
-def gen_lines(path):
-    """ Return lines of a concatinated text read from files in the given folder.
-    """
-    return (l
-            for f in sorted(glob.glob(path + '/*.txt'))
-            for l in codecs.open(f, 'r', 'utf-8').readlines())
-
-
-def gen_lposs(path):
-    """ Return lines and according line starting positions.
-    """
-    offset = 0
-    lprev = ''
-    for l in gen_lines(path):
-        offset += len(lprev)
-        lprev = l
-        yield l, offset
     
 
 def eval_text_match(gt_path=GT_TXT_PATH, ocr_path=OCR_TXT_PATH,
@@ -53,6 +36,21 @@ def eval_text_match(gt_path=GT_TXT_PATH, ocr_path=OCR_TXT_PATH,
     """ Evaluate the contents of the ground truth and error-substituted OCR text
     are the same.
     """
+    def gen_lines(path):
+        """ Return lines of a concatinated text read from files in the given folder.
+        """
+        return (l
+                for f in sorted(glob.glob(path + '/*.txt'))
+                for l in codecs.open(f, 'r', 'utf-8').readlines())
+    def gen_lposs(path):
+        """ Return lines and according line starting positions.
+        """
+        offset = 0
+        lprev = ''
+        for l in gen_lines(path):
+            offset += len(lprev)
+            lprev = l
+            yield l, offset
     # Get a dictionary of the error information, where errors are indexed by
     # their positions.
     err_dict = {}
@@ -167,9 +165,6 @@ def eval_err_list(err_path=GT_ERROR_PATH):
 
 
 if __name__ == '__main__':
-    print(chr(339))
-    print(chr(230))
-    print(chr(230))
     eval_text_match()
     eval_err_list()
     print('Done!')

@@ -2901,4 +2901,5 @@
 495893	Sa\'I	SAVI		
 496106	/lava	flava		
 496153	nowadaj'S	nowadays		
-497115	Scill3%	Scilly,		
+497115	Scill3%	Scilly		
+497122		,		
