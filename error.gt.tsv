@@ -691,8 +691,7 @@
 130703	aviar}'	aviary		
 130797	verj^	very		
 130973		,		punctuation
-130984	-	.		punctuation
-130986	.			punctuation
+130982	PP- .	pp.		
 131009	FRINGILLID.^	FRINGILLIDÆ	FRINGILLIDAE	unicode
 131035	FRINGILLIN.^	FRINGILLINÆ	FRINGILLINAE	unicode
 131066	Py})hula	Pyrrhula		
@@ -999,7 +998,7 @@
 175699	youug	young		
 175792	sand}'	sandy		
 175862	ros}'	rosy		
-178030	^p	p		
+178030	^p.	p.		
 178296	.	,		
 178372	Canar\'	Canary		
 178391	tnvcy	tewey		
@@ -1059,7 +1058,7 @@
 184769	f	†		punctuation
 184818	L	I		
 184819		,		punctuation
-184821	-	.		punctuation
+184820	P-	p.		punctuation
 184905	Iwenty	twenty		
 185121	Tliey	They		
 185184	tliey	they		
@@ -1435,10 +1434,10 @@
 247914	zs/nvtro	zshweeo		
 248241	iv/t//	whit		
 248298	zw	ziv		
-248659	ivhcat	wheat		
+248659	ivhcat	wheat		sound-simulation
 248666	car	ear		sound-simulation
 248673	iissi	tissi		sound-simulation
-248679	car	ear		
+248679	car	ear		sound-simulation
 248848	maj-	may		
 249382	simplj-	simply		
 249713	da^-s	days		
@@ -1508,13 +1507,16 @@
 263052	frequeutl}'	frequently		
 263105	ungainlj'	ungainly		
 263136	apolog}^	apology		
-263669	'' kis	"tees		unicode sound-simulation
+263669	''	"		unicode sound-simulation
+263672	kis	tees		unicode sound-simulation
 263677	tcis	tees		sound-simulation
 263683	/ccs	tees		sound-simulation
-263689	tis-is-is-s-s-r-r-rc,'"	tis-is-is-s-s-r-r-re,"		unicode sound-simulation
-263732	''■tk-tic-tccsc,''	"tic-tic-teese,"		unicode sound-simulation
-264006	kaak^	kaak		
-264011		."		punctuation
+263689	tis-is-is-s-s-r-r-rc	tis-is-is-s-s-r-r-re		unicode sound-simulation
+263710	'"	"		
+263732	''	"		
+263734	■tk-tic-tccsc	tic-tic-teese		unicode sound-simulation
+263748	''	"		
+264010	^	."		punctuation
 264012	Tlie	The		
 264047	clums}^	clumsy		
 264071	strung	strong		
@@ -1762,7 +1764,7 @@
 303213	f )und	found		
 303337	mouth	month		
 303357	contaiuing	containing		
-303517	Jig	fig		
+303517	Jig.	fig.		
 303522	igS	198		numeric
 303526	J	)		punctuation
 303730	Jauseu	Jansen		
@@ -1806,7 +1808,7 @@
 310038	iu	in		
 310041	vSouth	South		
 310099	]\Ianual	Manual		
-310130	:;	2		numeric
+310130	:; 13	213		numeric
 310820	Flaniborough	Flamborough		
 312120	feuiale	female		
 312496	parti}'	partly		
@@ -1821,7 +1823,7 @@
 313779	Seebolim	Seebohm		
 313941	iu	in		
 313964	i8th	18th		numeric
-314039	i	½		unicode special
+314037	66i	66½		unicode special
 314300	principall}'	principally		
 314316	compau}-	company		
 315258	chciig	cheng		
@@ -2186,7 +2188,7 @@
 383909	usually'	usually		
 383994	IMa}-	May		
 384511	tlie	the		
-384582	vS	S		
+384582	vS.	S.		
 384644	Norwaj-	Norway		
 385540	b}'	by		
 385654	ver^^	very		
@@ -2228,7 +2230,7 @@
 392560	caiv	caw		
 392566	(jiiick	quick		
 392581	cv	&		punctuation
-392584		.		
+392583	c	c.		
 392618	licard	heard		
 392660	cliack	chack		
 392671	cli,u-k	chark		
@@ -2548,8 +2550,8 @@
 446060	l)ird	bird		
 446329	soug	song		
 447002	iisually	usually		
-447026	gd	9d		numeric
-447033	is	1s		numeric
+447026	gd.	9d.		numeric
+447033	is.	1s.		numeric
 447577	runuer	runner		
 447722	ui}'	my		
 447736	cue	one		
@@ -2897,7 +2899,7 @@
 495705	SykEvS'	SYKES'		unicode
 495801	2otli	20th		numeric
 495823	MO TA CILLlDzE	MOTACILLIDÆ	MOTACILLIDAE	unicode
-495844	AvShy-Headed	ASHY-HEADED		unicode
+495844	AvShy	ASHY		unicode
 495893	Sa\'I	SAVI		
 496106	/lava	flava		
 496153	nowadaj'S	nowadays		

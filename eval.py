@@ -9,7 +9,7 @@ import glob
 import re
 
 
-GT_ERROR_PATH = 'error.gt.txt'
+GT_ERROR_PATH = 'error.gt.tsv'
 GT_TXT_PATH   = 'gt'
 OCR_TXT_PATH  = 'ocr'
 
@@ -158,7 +158,8 @@ def eval_err_list(err_path=GT_ERROR_PATH):
         # Check if there is any GT name can be further splitted.
         if (re.match(r'\w+\W+$', gt)
                 # with exceptions
-                and int(pos) not in [258955, 457072, 495705]):
+                and int(pos) not in [130982, 178030, 184820, 258955, 303517,
+                    384582, 392583, 447026, 447033, 457072, 495705]):
             raise Exception('Format error: gt contains multiple tokens: {}'
                     .format((pos, ocr, gt, gt_ascii, info)))
     
